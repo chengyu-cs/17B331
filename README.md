@@ -1,4 +1,4 @@
-# 黄霄雲公开语料库（粉丝整理 · 机器可读）
+# 黄霄雲公开语料库
 
 > Huaxiaoyun (Huang Xiaoyun) Public Corpus — fan-compiled, machine-readable.
 > 34,341 条 / 37 万汉字 / 2014-09 → 2026-10 / 全部为她本人的公开发言文本。
