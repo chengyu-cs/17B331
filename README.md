@@ -32,7 +32,7 @@ docs/
   stats.md                       # 统计
 ```
 
-**分层说明**：`data/` 是清洗后的公开安全池（原始未清洗采集稿不发布——含他人发言与敏感期内容，且 ASR 噪声大无使用价值；清洗漏斗见 stats.md）。`refined/` 是在主池之上初步提炼的事实卡；其中引用 `timeline.json`/`entities.json`/`C-011` 的来源属**二手/待核**（社区年表或粉丝剪辑），已逐条标注在 `source_check.second_hand_or_pending`，使用时请自行向主池原文或官方渠道复核。
+**分层说明**：`data/` 是清洗后的公开安全池（原始未清洗采集稿不发布——含他人发言与敏感期内容，且 ASR 噪声大无使用价值；清洗漏斗见 stats.md）。`refined/` 是在主池之上初步提炼的事实卡；其中引用 `timeline.json`/`entities.json`/`C-011` 的来源属**二手/待核**（社区年表或粉丝剪辑），已逐条标注在 `source_check.second_hand_or_pending`，使用时请自行向主池原文或官方渠道复核。**每个目录内都有独立的 README.md 说明**（data / refined / index / docs 各一份）。
 
 ## 快速上手
 
