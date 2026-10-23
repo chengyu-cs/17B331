@@ -27,15 +27,24 @@ data/
   concert_talking.jsonl          # 演唱会现场讲话 14 条
 refined/
   facts.json                     # 10 条事实卡（巡演/作品），二手来源都标了"待核"，用前自己复核
+analysis/
+  style_guide.md                 # 分语域文风指南！主号/小号/caption/口语/演唱会五套语域全量化
+  style_labels.jsonl             # 26,062 条逐条风格标注，按 id 和主池关联
+  evidence_pool_curated.jsonl    # 1,679 条精选证据，带原链
+  exemplars.md                   # 场景样例，每条带 corpus id
+  style_stats_v3.md              # 统计口径
 index/
   by_video.json                  # B站 128 个视频的段落索引，考古导航用
   by_month.json                  # 按月条目数，看她哪阵子话多
 docs/
   fields.md                      # 全字段说明
   stats.md                       # 统计 + 清洗漏斗
+  methodology.md                 # 这库怎么采怎么洗的 + 参考社区 skill 的方法论致谢
 ```
 
-原始未清洗的采集稿不放出来（有别人发言和敏感期内容，没必要）。清洗漏斗的数字都在 stats.md，你们自己去看～
+文字不只存起来了，还做了风格分析。她五套语域怎么说话——主号写什么、小号聊什么、演唱会上什么样——analysis/ 里全部量化了。这层也没人做过！！
+
+原始未清洗的采集稿不放出来（有别人发言和敏感期内容，没必要）。清洗漏斗的数字都在 stats.md 和 methodology.md，你们自己去看～
 
 ## 快速上手
 
