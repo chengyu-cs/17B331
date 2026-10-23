@@ -1,0 +1,202 @@
+[
+ {
+  "id": "fact-tour-2.0",
+  "keywords": [
+   "2.0",
+   "下一站",
+   "巡演",
+   "重庆",
+   "佛山",
+   "厦门",
+   "杭州",
+   "苏州"
+  ],
+  "date": "2026-10-22",
+  "text": "宇宙无敌号2.0：杭州 8/29-30、苏州 9/26 已演；下一站重庆 10/24；佛山 10/31；厦门 11/28。",
+  "source": "weibo-5329253605573051 / weibo-5353171213091128 / weibo-5347783273088944",
+  "source_check": {
+   "in_corpus": [
+    "weibo-5329253605573051",
+    "weibo-5353171213091128",
+    "weibo-5347783273088944"
+   ],
+   "second_hand_or_pending": []
+  }
+ },
+ {
+  "id": "fact-album",
+  "keywords": [
+   "专辑",
+   "没语季节",
+   "首张",
+   "几首",
+   "制作人"
+  ],
+  "date": "2024-11-15",
+  "text": "首张个人原创录音室专辑《没语季节》，2024-11-15 发行，10 首，她本人担任制作人。",
+  "source": "entities.json works.albums[2] / bili-BV1YaHuebEst-0071/0072 / bili-BV1SXpdesEjN-0051",
+  "source_check": {
+   "in_corpus": [],
+   "second_hand_or_pending": [
+    "entities.json works.albums[2]",
+    "bili-BV1YaHuebEst-0071",
+    "bili-BV1SXpdesEjN-0051"
+   ]
+  }
+ },
+ {
+  "id": "fact-1.0",
+  "keywords": [
+   "1.0",
+   "北京",
+   "首场",
+   "万人"
+  ],
+  "date": "2024-11-01",
+  "text": "宇宙无敌号 1.0 北京站：2024-11-01/02，北京华熙LIVE·五棵松。",
+  "source": "timeline.json / concert-universe_beijing2024-01",
+  "source_check": {
+   "in_corpus": [
+    "concert-universe_beijing2024-01"
+   ],
+   "second_hand_or_pending": [
+    "timeline.json"
+   ]
+  }
+ },
+ {
+  "id": "fact-c011-open-voice",
+  "keywords": [
+   "开声",
+   "练声",
+   "每天",
+   "练"
+  ],
+  "date": "2018-02-14",
+  "text": "公开访谈：每天开声是有必要的，就算不唱歌，开声也能调整声带。",
+  "source": "C-011 / bili-BV1C54y127u6-0182",
+  "source_check": {
+   "in_corpus": [
+    "bili-BV1C54y127u6-0182"
+   ],
+   "second_hand_or_pending": [
+    "C-011"
+   ]
+  }
+ },
+ {
+  "id": "fact-c011-exam-practice",
+  "keywords": [
+   "考前一晚",
+   "反复练",
+   "艺考",
+   "练",
+   "那时候"
+  ],
+  "date": "2018-02-14",
+  "text": "公开访谈：考前一晚把剩余时间全用来反复练目标曲，唱到很晚。",
+  "source": "C-011 / bili-BV1C54y127u6-0724",
+  "source_check": {
+   "in_corpus": [
+    "bili-BV1C54y127u6-0724"
+   ],
+   "second_hand_or_pending": [
+    "C-011"
+   ]
+  }
+ },
+ {
+  "id": "fact-c011-musical",
+  "keywords": [
+   "音乐剧",
+   "美声",
+   "练"
+  ],
+  "date": "2018-02-14",
+  "text": "公开访谈：同一天练完美声，再接着练音乐剧。",
+  "source": "C-011 / bili-BV1C54y127u6-0137",
+  "source_check": {
+   "in_corpus": [
+    "bili-BV1C54y127u6-0137"
+   ],
+   "second_hand_or_pending": [
+    "C-011"
+   ]
+  }
+ },
+ {
+  "id": "fact-c011-imitate",
+  "keywords": [
+   "跑调",
+   "模仿",
+   "听不清",
+   "唱错"
+  ],
+  "date": "2018-02-14",
+  "text": "公开访谈：以前唱歌是先模仿别人，字听不清就跟着唱，所以会唱错。",
+  "source": "C-011 / bili-BV1C54y127u6-0696",
+  "source_check": {
+   "in_corpus": [
+    "bili-BV1C54y127u6-0696"
+   ],
+   "second_hand_or_pending": [
+    "C-011"
+   ]
+  }
+ },
+ {
+  "id": "fact-c011-exam-mindset",
+  "keywords": [
+   "紧张",
+   "缓解",
+   "怯场",
+   "考试",
+   "心态",
+   "兴奋"
+  ],
+  "date": "2018-02-14",
+  "text": "公开访谈：第二次进考场比第一次放松，想着自己是最棒的，反而不怯场，还挺兴奋。",
+  "source": "C-011 / bili-BV1C54y127u6-0425",
+  "source_check": {
+   "in_corpus": [
+    "bili-BV1C54y127u6-0425"
+   ],
+   "second_hand_or_pending": [
+    "C-011"
+   ]
+  }
+ },
+ {
+  "id": "fact-song-stars",
+  "keywords": [
+   "星辰大海"
+  ],
+  "date": "2021-01-01",
+  "text": "《星辰大海》是她的原唱代表作（2021）。",
+  "source": "entities.json / 公开作品",
+  "source_check": {
+   "in_corpus": [],
+   "second_hand_or_pending": [
+    "entities.json",
+    "公开作品"
+   ]
+  }
+ },
+ {
+  "id": "fact-song-open",
+  "keywords": [
+   "打开"
+  ],
+  "date": "2023-08-19",
+  "text": "《打开》是她的代表作之一，2023 年“打开”广州演唱会也用了这个名字。",
+  "source": "entities.json / weibo-4912234922508712",
+  "source_check": {
+   "in_corpus": [
+    "weibo-4912234922508712"
+   ],
+   "second_hand_or_pending": [
+    "entities.json"
+   ]
+  }
+ }
+]
