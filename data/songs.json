@@ -1,0 +1,5888 @@
+{
+ "_meta": {
+  "说明": "黄霄雲作品元数据（201 条）：类型/日期/词曲编曲署名/她本人创作标记/来源。不含歌词原文。",
+  "来源优先级": "corpus_weibo（她本人微博官宣，可在 data/ 主池回查原文） > 平台专辑页 > 百科类",
+  "置信度口径": "高=多源一致或本人官宣；中=单平台；低=待核（粉丝梳理/百科引文）",
+  "勘误": "出道为 2015-07 好声音第四季（2014 为附中获奖年）；《三分钟艺术家》为付思超作品非她原唱；《星辰大海2.0》无独立发行（建党百年版/巡演新编版单列）。",
+  "generated": "2026-10-24 v2",
+  "v2说明": "87 条补丁合并：57 条补署名/日期/时长/官方简介，30 条修正（含署名纠错），没语季节五首作曲确认为黄霄雲本人（觉醒时代词曲全包）。"
+ },
+ "entries": [
+  {
+   "title": "你",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《中国好声音第四季》盲选（原唱：萧敬腾）",
+   "date": "2015-07",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5241731513320190",
+     "date": "2025-12-09",
+     "url": "https://weibo.com/5043186742/QhvCTdVJs"
+    },
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5244132369897096",
+     "date": "2025-12-15",
+     "url": "https://weibo.com/5043186742/Qiw5eFwGA"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "《旗帜·中国青年说》主题音乐（维基百科收录）。另：2015 好声音第四季盲选演唱萧敬腾《你》晋级汪峰战队，导师对战 PK 曲为《All by myself》（封面，原唱 Celine Dion/姚贝娜经典翻唱曲目）。"
+  },
+  {
+   "title": "All by Myself",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《中国好声音第四季》（原唱：Eric Carmen / Celine Dion）",
+   "date": "2015-08",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "I Believe",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《中国好声音第四季》汪峰组Battle战（原唱：范逸臣）",
+   "date": "2015-08",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014",
+    "https://page.sm.cn/blm/midpage-317/index?id=19_6b9bb8c69ad320c21371339f0f379d31&q=%e9%bb%84%e9%9c%84%e4%ba%91%e4%b8%ad%e5%9b%bd%e5%a5%bd%e5%a3%b0%e9%9f%b3%e6%ad%8c%e6%9b%b2"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://page.sm.cn/blm/midpage-317/index?id=19_6b9bb8c69ad320c21371339f0f379d31&q=%e9%bb%84%e9%9c%84%e4%ba%91%e4%b8%ad%e5%9b%bd%e5%a5%bd%e5%a3%b0%e9%9f%b3%e6%ad%8c%e6%9b%b2"
+    }
+   ]
+  },
+  {
+   "title": "鱼",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《中国好声音第四季》汪峰组Battle战（原唱：陈绮贞）",
+   "date": "2015-08",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "冬日罗甸",
+   "type": "现场演出曲",
+   "album": "",
+   "ost_for": "黔南州第十届旅发大会山水实景演出《灵水玉梦》",
+   "date": "2016-12-29",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "征战",
+   "type": "单曲（首支个人单曲，含rap元素）",
+   "album": "",
+   "ost_for": "",
+   "date": "2017-12-14",
+   "lyricist": "史坚石",
+   "composer": "史坚石",
+   "arranger": "待补",
+   "producer": "任中强",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kugou.com/song-36/lfpmrd7.html"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "duration": "3:58",
+   "intro": "首支个人单曲，含rap元素，史坚石词曲、任中强制作，梦响强音时期发行。"
+  },
+  {
+   "title": "还可以爱吗",
+   "type": "单曲",
+   "album": "",
+   "ost_for": "",
+   "date": "2017-12-31",
+   "lyricist": "黄枫宜",
+   "composer": "黄枫宜",
+   "arranger": "任中强",
+   "producer": "任中强（配唱制作人/和声编写；录音凌泽宇@上海启动录音室，混音母带康小白@白帕斯）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kugou.com/song-36/lowj49d.html"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "2017年末抒情单曲，黄枫宜词曲，任中强编曲、制作并兼配唱制作与和声编写，和声由黄霄雲本人演唱。"
+  },
+  {
+   "title": "打开",
+   "type": "个人原创单曲",
+   "album": "",
+   "ost_for": "",
+   "date": "2018-05-07",
+   "lyricist": "米果",
+   "composer": "黄霄雲",
+   "arranger": "黄霄雲/余威",
+   "producer": "杨硕",
+   "her_composition": true,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E6%89%93%E5%BC%80/22567820",
+    "http://news.yule.com.cn/html/201805/269814.html"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4237140433305825",
+     "date": "2018-05-07",
+     "url": "https://weibo.com/5043186742/GfAbVdRZL"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E6%89%93%E5%BC%80/22567820"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "http://news.yule.com.cn/html/201805/269814.html"
+    }
+   ],
+   "duration": "5:32",
+   "intro": "个人原创单曲，米果作词、黄霄雲作曲并与余威联合编曲、杨硕制作；2020《歌手·当打之年》奇袭舞台曲，2026年推出《打开2.0》重制版。"
+  },
+  {
+   "title": "我要为你敞开胸膛",
+   "type": "影视OST主题曲",
+   "album": "",
+   "ost_for": "电影《请把生命交给我》主题曲",
+   "date": "2018-08-22",
+   "lyricist": "夏雪",
+   "composer": "夏雪",
+   "arranger": "夏雪",
+   "producer": "夏侯哲（混音：杨硕）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://musicupload.netease.com/m/album?id=72365409"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "note": "歌名以百度百科正文为准（搜狗百科写为单曲《请把生命交给我》），待核",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "电影《请把生命交给我》主题曲，夏雪词曲编、夏侯哲制作、杨硕混音；影片讲述建筑学子青春奋斗与住宅安全理想的故事。"
+  },
+  {
+   "title": "故乡",
+   "type": "比赛作品",
+   "album": "",
+   "ost_for": "2018大连原创歌曲大赛三等奖作品",
+   "date": "2018-09-16",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "低",
+   "note": "是否正式发行待核",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "左手指月",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《梦想的声音第三季》（原唱：萨顶顶；词：喻江 曲：萨顶顶；编曲柒玖 制作黄怡）",
+   "date": "2018-11",
+   "lyricist": "喻江",
+   "composer": "萨顶顶",
+   "arranger": "柒玖",
+   "producer": "黄怡",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.kugou.com/song-36/svuji97.html",
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.kugou.com/song-36/svuji97.html"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "天下无双",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《梦想的声音第三季》（原唱：张靓颖）",
+   "date": "2018-12",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "那时的光",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《梦想的声音第三季》（原唱：谭维维）",
+   "date": "2018-12",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "一样的月光",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《梦想的声音第三季》（原唱：苏芮）",
+   "date": "2019-01",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "来自火焰谷的情书",
+   "type": "影视OST插曲",
+   "album": "",
+   "ost_for": "都市悬疑剧《七日生》插曲",
+   "date": "2019-05-14",
+   "lyricist": "王鹤仪",
+   "composer": "刘瀚聪",
+   "arranger": "甘虎（吉他：赵勤；录音刘天鸿；混音母带全相彦@欧凯）",
+   "producer": "刘瀚聪",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kugou.com/song-36/wm4zb7e.html",
+    "http://www.kuwo.cn/play_detail/69191599"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "duration": "3:23",
+   "intro": "都市悬疑剧《七日生》插曲：王鹤仪作词、刘瀚聪作曲并担任制作人；2019-05-14上线，05-17收录于《七日生 电视剧原声带》。"
+  },
+  {
+   "title": "消散",
+   "type": "单曲（合唱/双版本）",
+   "album": "消散（周典奥同名专辑）",
+   "ost_for": "",
+   "date": "2019-08-28",
+   "lyricist": "周典奥",
+   "composer": "周典奥",
+   "arranger": "待补",
+   "producer": "胡春阳/李丁（录音混缩：胡春阳；母带：周典奥；音乐制作：洪旭音乐）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kugou.com/song-36/yzvrt7f.html",
+    "https://www.deezer.com/ja/album/744338851"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E6%B6%88%E6%95%A3/23760608",
+    "http://www.163.com/ent/article/ENP5BBGE00039206_pa11y.html"
+   ],
+   "confidence": "高",
+   "note": "黄霄雲演唱版2019-08-28首发；周典奥版收录于2019-10-17专辑；2026-01-07黄霄雲发布独唱版",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E6%B6%88%E6%95%A3/23760608"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "http://www.163.com/ent/article/ENP5BBGE00039206_pa11y.html"
+    }
+   ],
+   "duration": "4:32",
+   "intro": "邀请创作才女周典奥量身词曲，胡春阳、李丁担当制作人；副歌三个八度海豚音将伤口剖开示众般歇斯底里，被称『小海豚』实力注脚。"
+  },
+  {
+   "title": "懂事",
+   "type": "单曲（节目打造）",
+   "album": "",
+   "ost_for": "《音你成名》打造曲目",
+   "date": "2019-09-02",
+   "lyricist": "彭圆圆",
+   "composer": "罗玮洛",
+   "arranger": "核心音乐（混音：谯鑫/傅梦彤；母带：谯鑫@QXStudio）",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kugou.com/song-36/z1dun52.html"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料31）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料31）"
+    }
+   ],
+   "intro": "百度『音你成名』音乐短视频大赛参赛作品，彭圆圆作词、罗玮洛作曲，收录于《音你成名 第五辑》；黄霄雲本人完成和声编写与和声。"
+  },
+  {
+   "title": "Sad Sometimes",
+   "type": "单曲（feat. Alan Walker，比赛首演）",
+   "album": "",
+   "ost_for": "百度第一届《音你成名》音乐比赛演唱作品",
+   "date": "2019-09-20",
+   "lyricist": "待补",
+   "composer": "Alan Walker/CORSAK胡梦周",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [
+    "https://kuwo.cn/album_detail/10760810",
+    "https://music.douban.com/subject/34892601/"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189",
+    "https://m.hupu.com/bbs-share/629328750.html"
+   ],
+   "confidence": "高",
+   "note": "2019-09-20为比赛首演日；正式上线日期与Alan Walker合作署名细节待补",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.hupu.com/bbs-share/629328750.html"
+    }
+   ],
+   "intro": "Alan Walker×CORSAK胡梦周创作、黄霄云演唱的英语电音单曲，百度第一届《音你成名》决赛全球首演后于同日独家上线，六位导师为其爆灯。"
+  },
+  {
+   "title": "没了我你依然拥有太阳（原版）",
+   "type": "单曲",
+   "album": "",
+   "ost_for": "",
+   "date": "2019-11-10",
+   "lyricist": "施牧辰",
+   "composer": "施牧辰",
+   "arranger": "黄霄雲",
+   "producer": "（缩混：徐明哲）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://y.music.163.com/m/song?id=1440529750"
+   ],
+   "source_urls": [
+    "https://baike.sogou.com/m/v102461041.htm?g_ut=3",
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189（参考资料29）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5067785191293879",
+     "date": "2024-08-16",
+     "url": "https://weibo.com/5043186742/OsroX5qB1"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.sogou.com/m/v102461041.htm?g_ut=3"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189（参考资料29）"
+    }
+   ],
+   "intro": "2019年demo版：施牧辰词曲、黄霄雲编曲演唱、徐明哲缩混；不完整的demo已遇见无数同频共鸣的人。"
+  },
+  {
+   "title": "也许明天",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《嗨唱转起来第一季》第6期（原唱：张惠妹）",
+   "date": "2019-11-12",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "倒数",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《嗨唱转起来第一季》第6期（原唱：邓紫棋）",
+   "date": "2019-11-12",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "假装",
+   "type": "影视OST插曲",
+   "album": "",
+   "ost_for": "电视剧《遇见幸福》插曲",
+   "date": "2020",
+   "lyricist": "徐之彤",
+   "composer": "徐之彤",
+   "arranger": "待补",
+   "producer": "（缩混：万小元；录音：李巍）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kugou.com/song-36/zn49pb7.html"
+   ],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）",
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料27）"
+   ],
+   "confidence": "中",
+   "note": "维基另注其亦为电影《奇花记》主题曲，待核",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料27）"
+    }
+   ],
+   "intro": "电视剧《遇见幸福》插曲，徐之彤词曲；『试着伪装，想偷偷的隐藏，可是我的脸庞却不会说谎』。维基另注电影《奇花记》主题曲，待核。"
+  },
+  {
+   "title": "梦想启航",
+   "type": "公益单曲",
+   "album": "",
+   "ost_for": "抗疫公益单曲",
+   "date": "2020",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.wikiwand.com/zh/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.wikiwand.com/zh/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ],
+   "intro": "与王柳棋合作的抗疫公益歌曲，『站在一起』抗击疫情主题视频征集展示活动优秀作品。"
+  },
+  {
+   "title": "爱那边",
+   "type": "单曲",
+   "album": "",
+   "ost_for": "",
+   "date": "2020",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料30）"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料30）"
+    }
+   ]
+  },
+  {
+   "title": "心墙",
+   "type": "综艺舞台翻唱（合唱）",
+   "album": "",
+   "ost_for": "《新声请指教》与钱正昊合作（原唱：郭静）",
+   "date": "2020-01-19",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189",
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "你的答案",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《歌手·当打之年》（原唱：阿冗）",
+   "date": "2020-02",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014",
+    "https://m.hupu.com/bbs-share/629328750.html"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.hupu.com/bbs-share/629328750.html"
+    }
+   ]
+  },
+  {
+   "title": "我们的爱",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《歌手·当打之年》（原唱：飞儿乐团）",
+   "date": "2020-02",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5354071742744624",
+     "date": "2026-10-15",
+     "url": "https://weibo.com/5043186742/RmGEubw08"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "我用所有报答爱",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《歌手·当打之年》（原唱：张靓颖）",
+   "date": "2020-02",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "打开（歌手舞台版）",
+   "type": "综艺舞台（原唱自己）",
+   "album": "",
+   "ost_for": "《新声请指教》/《歌手·当打之年》舞台",
+   "date": "2020-02",
+   "lyricist": "米果",
+   "composer": "黄霄雲",
+   "arranger": "",
+   "producer": "",
+   "her_composition": true,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4237140433305825",
+     "date": "2018-05-07",
+     "url": "https://weibo.com/5043186742/GfAbVdRZL"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "更漏子",
+   "type": "影视OST主题曲",
+   "album": "",
+   "ost_for": "动画短片《伴羽人》主题曲",
+   "date": "2020-02",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "谜",
+   "type": "综艺舞台曲",
+   "album": "",
+   "ost_for": "《新声请指教》舞台",
+   "date": "2020-02",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "还可以爱吗（歌手舞台版）",
+   "type": "综艺舞台（原唱自己）",
+   "album": "",
+   "ost_for": "《新声请指教》舞台",
+   "date": "2020-02",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "",
+   "producer": "",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "连名带姓",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《歌手·当打之年》（原唱：张惠妹）",
+   "date": "2020-02",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "少年他的奇幻漂流",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《歌手·当打之年》第一期奇袭成功（原唱：五月天）",
+   "date": "2020-02-07",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189",
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "人间天使",
+   "type": "公益单曲",
+   "album": "",
+   "ost_for": "抗疫公益单曲",
+   "date": "2020-02-08",
+   "lyricist": "郑艺（吉林艺术学院音乐学院院长）",
+   "composer": "徐之彤（中央音乐学院）",
+   "arranger": "罗奕钧（央音附中作曲专业毕业）",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.wikiwand.com/zh/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.wikiwand.com/zh/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ],
+   "intro": "央音×吉艺师生为武汉加油的抗疫公益歌曲：郑艺作词、徐之彤作曲、罗奕钧编曲，三天完成创作录制，后收录《永远在一起》专辑。"
+  },
+  {
+   "title": "保留",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《天赐的声音》第一季（原唱：郭顶）",
+   "date": "2020-04",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "末日飞船",
+   "type": "综艺舞台曲",
+   "album": "",
+   "ost_for": "《新声请指教》第十期舞台",
+   "date": "2020-04",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014",
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "缘启",
+   "type": "单曲",
+   "album": "",
+   "ost_for": "",
+   "date": "2020-04",
+   "lyricist": "戴安帅",
+   "composer": "戴安帅",
+   "arranger": "戴安帅",
+   "producer": "（混音：黄煦）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kugou.com/song-36/y963me3.html"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料26）"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料26）"
+    }
+   ],
+   "intro": "戴安帅包办词曲编的纪念性单曲，为原中国音乐学院焦抒红女士（奶奶）而作，词抒发对奶奶真挚的思念；混音黄煦。"
+  },
+  {
+   "title": "贝加尔湖畔",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《天赐的声音》第一季（原唱：李健）",
+   "date": "2020-04",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "旁若无人",
+   "type": "单曲",
+   "album": "",
+   "ost_for": "",
+   "date": "2020-04-23",
+   "lyricist": "苏靖凯/孔祥宇",
+   "composer": "苏靖凯",
+   "arranger": "胡晨",
+   "producer": "阿迪",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "个人单曲：苏靖凯作曲并与孔祥宇联合作词，胡晨编曲、阿迪制作。"
+  },
+  {
+   "title": "爆款来了",
+   "type": "综艺主题曲",
+   "album": "",
+   "ost_for": "电商综艺《爆款来了第二季》同名主题曲",
+   "date": "2020-05-13",
+   "lyricist": "魏星/姜楠",
+   "composer": "黄一",
+   "arranger": "黄一",
+   "producer": "黄一（录音/编辑严政/混音母带；OP梦响强音）",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "电商综艺《爆款来了第二季》同名主题曲，魏星/姜楠作词，黄一作曲、编曲、录音并混音母带（V-studio上海），梦响强音出品。"
+  },
+  {
+   "title": "和从前的自己相遇",
+   "type": "单曲（节目打造）",
+   "album": "",
+   "ost_for": "《新声请指教》打造曲目",
+   "date": "2020-05-22",
+   "lyricist": "唐汉霄",
+   "composer": "唐汉霄",
+   "arrangler": "",
+   "producer": "唐汉霄（录音/混音/母带：刘俊杰）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kugou.com/song-36/17dbwce3.html"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "酷狗《新声请指教》中唐汉霄为央音学员黄霄雲量身定制：以时空对话形式与从前的自己相遇，杨子轩编曲、刘俊杰录音混音母带。",
+   "arranger": "杨子轩（和声冯甜甜；吉他牛子健；录音棚香蕉娱乐录音棚）"
+  },
+  {
+   "title": "自救",
+   "type": "单曲",
+   "album": "",
+   "ost_for": "",
+   "date": "2020-05-22",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料33-34）"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料33-34）"
+    }
+   ]
+  },
+  {
+   "title": "四季与你",
+   "type": "单曲",
+   "album": "",
+   "ost_for": "",
+   "date": "2020-06-22",
+   "lyricist": "丁聪（SmartD丁聪）",
+   "composer": "彭轩",
+   "arranger": "彭轩（吉他齐成刚；鼓Dr.李平；弦乐国际首席爱乐乐团；单簧管吴丹）",
+   "producer": "彭轩/沈力（配唱制作人：沈力；混音母带：李游@55Tec Beijing）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kugou.com/song-36/18pk6id5.html"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4518406180800760",
+     "date": "2020-06-22",
+     "url": "https://weibo.com/5043186742/J7IPo3mju"
+    },
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4567236003499711",
+     "date": "2020-11-03",
+     "url": "https://weibo.com/5043186742/Jsd7aeGqX"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "《新声请指教》打造曲目：丁聪作词、彭轩作曲编曲并与沈力联合制作，国际首席爱乐乐团弦乐与单簧管铺陈四季流转。"
+  },
+  {
+   "title": "迷途",
+   "type": "影视OST推广曲",
+   "album": "",
+   "ost_for": "电影《海雾》推广曲",
+   "date": "2020-09-08",
+   "lyricist": "熊志鹏/阿沁 REAL",
+   "composer": "熊志鹏/阿沁 REAL",
+   "arranger": "熊志鹏（制作公司：核心音乐 C Entertainment）",
+   "producer": "阿沁 REAL（配唱制作人：刘捷JAREK；监制：孙海亮；执行制作人：吴俊仪MIKE）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kugou.com/song-36/1chmq3aa.html"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "电影《海雾》推广曲，飞儿乐团阿沁与熊志鹏联合词曲，阿沁制作、核心音乐制作；『迷惑的我也想变成蓝色』。"
+  },
+  {
+   "title": "时间折叠",
+   "type": "单曲",
+   "album": "",
+   "ost_for": "",
+   "date": "2020-11-06",
+   "lyricist": "雷雨心",
+   "composer": "Sihan",
+   "arranger": "Sihan",
+   "producer": "Sihan（兼混音/母带）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kugou.com/song-36/1esiv5eb.html"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "与新生代电音制作人Sihan合作：融合Trap与中东元素，雷雨心作词，Sihan作曲、制作、混音母带，Liquid State Limited出版。"
+  },
+  {
+   "title": "Neverland",
+   "type": "专辑曲目（EP主打）",
+   "album": "黄霄雲的Neverland（童话篇 2020-11-16 / 成长篇 2020-12-03，梦响强音）",
+   "ost_for": "",
+   "date": "2020-11-16",
+   "lyricist": "鱼糕",
+   "composer": "K.ONE@$TAR MAKER",
+   "arranger": "朴冉",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%e9%bb%84%e9%9c%84%e9%9b%a2%e7%9a%84Neverland/55523564",
+    "https://www.yuehaishibei.com/29105.html"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%e9%bb%84%e9%9c%84%e9%9b%a2%e7%9a%84Neverland/55523564"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.yuehaishibei.com/29105.html"
+    }
+   ]
+  },
+  {
+   "title": "一千零一夜",
+   "type": "专辑曲目",
+   "album": "黄霄雲的Neverland",
+   "ost_for": "",
+   "date": "2020-11-16",
+   "lyricist": "石天天/鱼糕",
+   "composer": "石天天",
+   "arranger": "潘澈",
+   "producer": "郑伟",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kugou.com/song-36/1fjeuk6c.html"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%e9%bb%84%e9%9c%84%e9%9b%a2%e7%9a%84Neverland/55523564"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%e9%bb%84%e9%9c%84%e9%9b%a2%e7%9a%84Neverland/55523564"
+    }
+   ]
+  },
+  {
+   "title": "秘密日记",
+   "type": "专辑曲目",
+   "album": "黄霄雲的Neverland",
+   "ost_for": "",
+   "date": "2020-11-16",
+   "lyricist": "王天昊",
+   "composer": "王天昊",
+   "arranger": "hoU",
+   "producer": "郑伟",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kugou.com/song-36/1fjevrbb.html"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%e9%bb%84%e9%9c%84%e9%9b%a2%e7%9a%84Neverland/55523564"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%e9%bb%84%e9%9c%84%e9%9b%a2%e7%9a%84Neverland/55523564"
+    }
+   ]
+  },
+  {
+   "title": "二十一",
+   "type": "专辑曲目",
+   "album": "黄霄雲的Neverland",
+   "ost_for": "",
+   "date": "2020-12-03",
+   "lyricist": "徐梦雅",
+   "composer": "崔万平",
+   "arranger": "朗梓朔/刘卓",
+   "producer": "刘卓",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kugou.com/song-36/1gdzjk45.html"
+   ],
+   "source_urls": [
+    "https://wapbaike.baidu.com/item/%E4%BA%8C%E5%8D%81%E4%B8%80/55543277"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://wapbaike.baidu.com/item/%E4%BA%8C%E5%8D%81%E4%B8%80/55543277"
+    }
+   ]
+  },
+  {
+   "title": "众声喧哗",
+   "type": "专辑曲目",
+   "album": "黄霄雲的Neverland",
+   "ost_for": "",
+   "date": "2020-12-03",
+   "lyricist": "徐乐同",
+   "composer": "徐乐同",
+   "arranger": "汪轼晔",
+   "producer": "刘卓",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kugou.com/song-36/1gdznw4c.html"
+   ],
+   "source_urls": [
+    "https://wapbaike.baidu.com/item/%E4%BC%97%E5%A3%B0%E5%96%A7%E5%93%97/55488688"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4666498989953637",
+     "date": "2021-08-04",
+     "url": "https://weibo.com/5043186742/KrTWqFLox"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://wapbaike.baidu.com/item/%E4%BC%97%E5%A3%B0%E5%96%A7%E5%93%97/55488688"
+    }
+   ]
+  },
+  {
+   "title": "逆世界",
+   "type": "专辑曲目",
+   "album": "黄霄雲的Neverland",
+   "ost_for": "",
+   "date": "2020-12-03",
+   "lyricist": "晴时书",
+   "composer": "崔万平",
+   "arranger": "朗梓朔/刘卓",
+   "producer": "刘卓",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kugou.com/song-36/1gdzs39d.html"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%e9%bb%84%e9%9c%84%e9%9b%a2%e7%9a%84Neverland/55523564"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%e9%bb%84%e9%9c%84%e9%9b%a2%e7%9a%84Neverland/55523564"
+    }
+   ]
+  },
+  {
+   "title": "爱的主打歌+不怕不怕+Lydia",
+   "type": "晚会舞台翻唱（串烧）",
+   "album": "",
+   "ost_for": "北京卫视2021跨年演唱会，与李琦合作",
+   "date": "2020-12-31",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "月光河畔",
+   "type": "翻唱单曲",
+   "album": "",
+   "ost_for": "中文翻唱",
+   "date": "2021",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ]
+  },
+  {
+   "title": "那些我偷偷想你的时候",
+   "type": "原创demo",
+   "album": "",
+   "ost_for": "未正式发行的黄霄雲原创demo",
+   "date": "2021",
+   "lyricist": "",
+   "composer": "黄霄雲",
+   "arranger": "",
+   "producer": "",
+   "her_composition": true,
+   "platform_urls": [],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ]
+  },
+  {
+   "title": "星辰大海",
+   "type": "单曲（现象级代表作）",
+   "album": "星辰大海（索尼音乐/好乐无荒）",
+   "ost_for": "",
+   "date": "2021-01-15",
+   "lyricist": "瞿子千/刘涛/温莨",
+   "composer": "瞿子千/刘涛",
+   "arranger": "瞿子千",
+   "producer": "瞿子千/刘涛（监制：陶诗）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://music.migu.cn/v3/music/song/6005973SGCG",
+    "https://www.goflac.com/songs/293695482"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7/55795029",
+    "https://www.ccsdj.com/forum.php?mod=viewthread&action=printable&tid=614823"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4719809067224056",
+     "date": "2021-12-29",
+     "url": "https://weibo.com/5043186742/L8jk6ujj2"
+    },
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5170240977374773",
+     "date": "2025-05-25",
+     "url": "https://weibo.com/5043186742/PtthTuWvX"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7/55795029"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.ccsdj.com/forum.php?mod=viewthread&action=printable&tid=614823"
+    }
+   ],
+   "duration": "3:27",
+   "intro": "现象级代表作：好乐无荒×索尼音乐出品，抖音使用量超60亿次并持续霸榜各大音乐平台，2021年最热华语单曲之一。"
+  },
+  {
+   "title": "余年",
+   "type": "综艺舞台翻唱（合唱）",
+   "album": "",
+   "ost_for": "《天赐的声音第二季》与阿兰合作（原唱：肖战）",
+   "date": "2021-03-19",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189",
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "跳舞的梵谷",
+   "type": "综艺舞台翻唱（合唱）",
+   "album": "",
+   "ost_for": "《天赐的声音第二季》与尚雯婕合作（原唱：孙燕姿），获当期推荐金曲",
+   "date": "2021-03-19",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "不鼓自鸣",
+   "type": "综艺舞台翻唱（合唱）",
+   "album": "",
+   "ost_for": "《天赐的声音第二季》与尚雯婕合作",
+   "date": "2021-04-02",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料39）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料39）"
+    }
+   ]
+  },
+  {
+   "title": "你这样的人啊",
+   "type": "影视OST插曲",
+   "album": "",
+   "ost_for": "电视剧《啊摇篮》插曲",
+   "date": "2021-05-10",
+   "lyricist": "栗锦",
+   "composer": "栗锦",
+   "arranger": "莫非定律MoreFeel（兼和声编写/和声）",
+   "producer": "莫非定律MoreFeel",
+   "her_composition": false,
+   "platform_urls": [
+    "http://bd.kuwo.cn/play_detail/176989419"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "电视剧《啊摇篮》插曲：栗锦词曲，莫非定律MoreFeel编曲制作，国际首席爱乐乐团弦乐；以『徐风拂过清晨』等意象塑造守护者的坚韧形象。"
+  },
+  {
+   "title": "你懂的思念",
+   "type": "影视OST插曲",
+   "album": "",
+   "ost_for": "电视剧《风暴舞》插曲",
+   "date": "2021-05-14",
+   "lyricist": "张汇泉@骁Studio",
+   "composer": "闫骁男@骁Studio",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kuwo.cn/play_detail/177621175",
+    "https://www.deezer.com/us/track/1397633592"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "电视剧《风暴舞》插曲：张汇泉作词、闫骁男作曲（骁Studio），2021-05-14发行，05-25收录于《风暴舞 电视剧音乐原声大碟》。"
+  },
+  {
+   "title": "梦返",
+   "type": "影视OST主题曲",
+   "album": "",
+   "ost_for": "网剧《梦见狮子》主题曲",
+   "date": "2021-06-03",
+   "lyricist": "白领悟/捷喜米（刘捷Jarek）",
+   "composer": "钱雷",
+   "arranger": "何山（兼弦乐编写；弦乐监制胡静成，国际首席爱乐乐团演奏）",
+   "producer": "周品（兼配唱制作人；和声/和声编写：鱼椒盐；混音母带：曹洋@C·VOICE；制作所：末爵音乐LAST KNIGHT MUSIC）",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189",
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4644005281269858",
+     "date": "2021-06-03",
+     "url": "https://weibo.com/5043186742/KisMg5klA"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ],
+   "intro": "网剧《梦见狮子》主题曲：钱雷作曲、白领悟/捷喜米（刘捷Jarek）作词、周品制作；『一沧海一蜉蝣，一生没时间懵懂』，高考季上线为考生送祝福。"
+  },
+  {
+   "title": "星辰大海（建党百年主题音乐版）",
+   "type": "单曲特别版",
+   "album": "",
+   "ost_for": "建党百年主题音乐（改编词：罗高丞）",
+   "date": "2021-06-08",
+   "lyricist": "瞿子千/刘涛/温莨/罗高丞（改编词）",
+   "composer": "瞿子千/刘涛",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7/55795029"
+   ],
+   "confidence": "高",
+   "note": "用户所称『星辰大海2.0』未检索到独立发行，最接近的官方改版即此曲与2026巡演2.0新编曲现场版",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4719809067224056",
+     "date": "2021-12-29",
+     "url": "https://weibo.com/5043186742/L8jk6ujj2"
+    },
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5170240977374773",
+     "date": "2025-05-25",
+     "url": "https://weibo.com/5043186742/PtthTuWvX"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7/55795029"
+    }
+   ]
+  },
+  {
+   "title": "此间少年",
+   "type": "影视OST插曲",
+   "album": "",
+   "ost_for": "动画电影《俑之城》插曲",
+   "date": "2021-06-11",
+   "lyricist": "李小虹",
+   "composer": "黄英华",
+   "arranger": "黄英华",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4646874462818105",
+     "date": "2021-06-11",
+     "url": "https://weibo.com/5043186742/KjFpYbP7j"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "动画电影《俑之城》插曲：李小虹作词、黄英华作曲编曲，北京听见时代发行；少年壮志点燃奇幻之旅。"
+  },
+  {
+   "title": "来来往往",
+   "type": "影视OST插曲（合唱）",
+   "album": "",
+   "ost_for": "电视剧《美好的日子》插曲，与阿来合唱",
+   "date": "2021-06-15",
+   "lyricist": "董颖达",
+   "composer": "董颖达",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料47）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料47）"
+    }
+   ],
+   "intro": "电视剧《美好的日子》插曲，与阿来合唱，董颖达词曲，麦潼音乐发行。"
+  },
+  {
+   "title": "梦幻少年",
+   "type": "商业主题曲",
+   "album": "",
+   "ost_for": "扬州华侨城梦幻之城主题曲",
+   "date": "2021-06-24",
+   "lyricist": "武毅",
+   "composer": "程矛",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.wikiwand.com/zh/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.wikiwand.com/zh/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ],
+   "intro": "扬州华侨城『梦幻之城』文旅项目主题曲：武毅作词、程矛作曲，2021-06-23开业典礼首唱、次日发行；将梦幻之城喻为时间轴线上的少年。"
+  },
+  {
+   "title": "平行线 (Wish You Were Here)",
+   "type": "合作feat单曲",
+   "album": "",
+   "ost_for": "与Vicetone、WILLIM缪维霖合作",
+   "date": "2021-07-22",
+   "lyricist": "中文词：饭卡/WILLIM缪维霖",
+   "composer": "Sarah Solly Solovay/Jesse Finkelstein/Willim/Ruben den Boer/Victor Pool",
+   "arranger": "Vicetone/WILLIM缪维霖（混音母带：Ruben den Boer/Victor Pool）",
+   "producer": "Vicetone/Willim",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kuwo.cn/play_detail/185924708"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料48）",
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料48）"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ],
+   "duration": "2:45",
+   "intro": "荷兰电音组合Vicetone×中国制作人WILLIM缪维霖×黄霄雲：Liquid State东西跨界首发合作单曲，『一次次坠入记忆边缘，结局却无从改变』。"
+  },
+  {
+   "title": "心城",
+   "type": "影视OST片尾曲",
+   "album": "",
+   "ost_for": "动画电影《俑之城》片尾曲",
+   "date": "2021-07-22",
+   "lyricist": "马迪珂/尚琳琳",
+   "composer": "李智平",
+   "arranger": "陈俊威（布达佩斯艺术交响乐团演奏，指挥Peter Pejtsik，录音David Agnes）",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "duration": "3:30",
+   "intro": "动画电影《俑之城》片尾曲：马迪珂/尚琳琳作词、李智平作曲、陈俊威编曲，布达佩斯艺术交响乐团演奏，听见时代发行；演绎史诗级爱情惋叹。"
+  },
+  {
+   "title": "星空下",
+   "type": "合唱单曲",
+   "album": "",
+   "ost_for": "与潘虹、陈冰、毕夏、郭沁、邢晗铭、刘雪婧、赵露、张神儿合唱",
+   "date": "2021-07-28",
+   "lyricist": "王晓天",
+   "composer": "王晓天",
+   "arranger": "戴赫呈（和声编写：杨创/王晓天；和声演唱含九位歌手）",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.91flac.com/song/318108437"
+   ],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ],
+   "duration": "5:18",
+   "intro": "好声音十周年纪念：九季代表性女声（黄霄雲/潘虹/陈冰/毕夏/郭沁/邢晗铭/刘雪婧/赵露/张神儿）合唱，王晓天词曲；收录于专辑《星空下的我们》。"
+  },
+  {
+   "title": "羽众不同",
+   "type": "单曲",
+   "album": "",
+   "ost_for": "《2021中国好声音》相关曲（好声音企划）",
+   "date": "2021-07-28",
+   "lyricist": "涂惠源",
+   "composer": "吕婕菲",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [
+    "https://m.wagequ.com/lyric/6192831.html"
+   ],
+   "source_urls": [
+    "https://wiki.y.qq.com/i/c65uthm3deasejnges0g",
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料51）"
+   ],
+   "confidence": "高",
+   "note": "百度百科引用日期2021-07-31与QQ音乐百科2021-08-30不一致，取后者，待核",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4666498989953637",
+     "date": "2021-08-04",
+     "url": "https://weibo.com/5043186742/KrTWqFLox"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://wiki.y.qq.com/i/c65uthm3deasejnges0g"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料51）"
+    }
+   ],
+   "intro": "好声音企划单曲（另有2021好声音现场live版）：涂惠源作词、吕婕菲作曲，梦响强音发行，后收录于2021-12-06专辑《星空下的我》。"
+  },
+  {
+   "title": "苏州河",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《中国好声音2021》助教舞台（原唱：薛凯琪）",
+   "date": "2021-08",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "众",
+   "type": "公益单曲",
+   "album": "",
+   "ost_for": "新华社『声在中国』×网易云音乐，河南水灾公益",
+   "date": "2021-08-03",
+   "lyricist": "赵素冰",
+   "composer": "田昊",
+   "arranger": "待补",
+   "producer": "网易云音乐云下工作室（出品）",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4666498989953637",
+     "date": "2021-08-04",
+     "url": "https://weibo.com/5043186742/KrTWqFLox"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "新华社『声在中国』×网易云音乐抗洪公益曲，河南音乐人赵素冰作词、田昊作曲；上线一天播放破百万，登网易云飙升榜第二。"
+  },
+  {
+   "title": "带我去很远地方",
+   "type": "单曲",
+   "album": "",
+   "ost_for": "《中国好声音2021》助教舞台曲后正式发行",
+   "date": "2021-08-05",
+   "lyricist": "森之夏（百度百科作夏惠森）",
+   "composer": "白羽淇（百度百科作薛锦潭）",
+   "arranger": "钟强（录音：夏坚）",
+   "producer": "脱景麟（配唱制作人：于果；混音母带：白志森；监制：袋熊/AiryX）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kugou.com/song-36/1wycq9df.html"
+   ],
+   "source_urls": [
+    "https://wiki.y.qq.com/i/c65uthm3deasejnges0g",
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://wiki.y.qq.com/i/c65uthm3deasejnges0g"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ],
+   "intro": "《中国好声音2021》助教舞台曲后正式发行的录音室版：讯飞音乐×银河方舟出品，脱景麟制作；另有2021浙江卫视中秋晚会版。"
+  },
+  {
+   "title": "幻想",
+   "type": "单曲",
+   "album": "",
+   "ost_for": "另有与赖美云合唱版本（维基注）",
+   "date": "2021-09-16",
+   "lyricist": "李文浩",
+   "composer": "陈抒妮",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [
+    "http://m.geci9999.com/geci/161554.htm"
+   ],
+   "source_urls": [
+    "https://wiki.y.qq.com/i/c65uthm3deasejnges0g",
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4681301591065261",
+     "date": "2021-09-14",
+     "url": "https://weibo.com/5043186742/Ky71B4t7D"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://wiki.y.qq.com/i/c65uthm3deasejnges0g"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ],
+   "intro": "与赖美云合唱单曲，李文浩作词、陈抒妮作曲。"
+  },
+  {
+   "title": "星海起航",
+   "type": "合唱单曲",
+   "album": "",
+   "ost_for": "致敬中国航天人，与杨和苏KeyNG、许丹睿合唱",
+   "date": "2021-09-17",
+   "lyricist": "辰羽鸣/李三木",
+   "composer": "辰羽鸣",
+   "arranger": "朴冉（琵琶：王梓；戏曲：朴冉/许丹睿）",
+   "producer": "辰羽鸣/朴冉（黄霄雲本人担任和声设计，杨和苏KeyNG担任Rap设计；混音母带：大眼炮）",
+   "her_composition": false,
+   "platform_urls": [
+    "http://www.geci9999.com/geci/161552.htm"
+   ],
+   "source_urls": [
+    "https://wiki.y.qq.com/i/c65uthm3deasejnges0g",
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://wiki.y.qq.com/i/c65uthm3deasejnges0g"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ],
+   "intro": "新华网出品致敬中国航天人：与杨和苏KeyNG合唱（许丹睿参与戏腔），琵琶与戏曲元素交织，酷狗国风『国风新语』联合企划，鸣谢共青团中央。"
+  },
+  {
+   "title": "灯火里的中国",
+   "type": "晚会舞台翻唱",
+   "album": "",
+   "ost_for": "湖南卫视《中秋之夜》，与蔡程昱合唱（原唱：舒楠曲）",
+   "date": "2021-09-21",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "Oracle",
+   "type": "游戏OST主题曲",
+   "album": "",
+   "ost_for": "崩坏3《后崩坏书2》主题曲",
+   "date": "2021-10-06",
+   "lyricist": "TetraCalyx",
+   "composer": "文驰Vinchi（HOYO-MiX）",
+   "arranger": "文驰Vinchi（HOYO-MiX）",
+   "producer": "文驰Vinchi（HOYO-MiX）（出品：HOYO-MiX）",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料57）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4689296089681614",
+     "date": "2021-10-06",
+     "url": "https://weibo.com/5043186742/KBsZWECD4"
+    },
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4702728716552664",
+     "date": "2021-11-12",
+     "url": "https://weibo.com/5043186742/L18Z9ruE8"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料57）"
+    }
+   ],
+   "intro": "米哈游HOYO-MiX出品《崩坏3》后崩坏书2主题曲：TetraCalyx作词、文驰Vinchi曲编制作，黄霄雲演唱；人声录音徐威@52HzStudio，母带李敬浩Hao。"
+  },
+  {
+   "title": "光之黎明",
+   "type": "个人原创单曲",
+   "album": "光之黎明",
+   "ost_for": "生日礼物单曲",
+   "date": "2021-12-22",
+   "lyricist": "谢庚沄",
+   "composer": "黄霄雲",
+   "arranger": "Terence Teo/黄霄雲",
+   "producer": "谢庚沄（配唱制作人：黄霄雲；母带后期处理制作人：黄霄雲/刘韧）",
+   "her_composition": true,
+   "platform_urls": [
+    "https://www.shiyinren.net/song/523595.html"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%e5%85%89%e4%b9%8b%e9%bb%8e%e6%98%8e/59659436"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%e5%85%89%e4%b9%8b%e9%bb%8e%e6%98%8e/59659436"
+    }
+   ],
+   "duration": "4:50",
+   "intro": "生日礼物单曲，黄霄雲作曲并参与编曲、配唱制作与母带后期制作，谢庚沄作词，Terence Teo联合编曲。"
+  },
+  {
+   "title": "挑战",
+   "type": "游戏合作单曲",
+   "album": "",
+   "ost_for": "2021王者荣耀挑战者杯暨全民电竞战歌",
+   "date": "2021-12-31",
+   "lyricist": "午上/笛戈@金蜗牛lrc",
+   "composer": "Leah Muscat/Netta Nimrodi/Arie Burshtein",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.shazam.com/zh-cn/song/1706160507/%E6%8C%91%E6%88%98"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料61）",
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4720447608063235",
+     "date": "2021-12-31",
+     "url": "https://weibo.com/5043186742/L8zW0xPCb"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料61）"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ],
+   "intro": "2021王者荣耀挑战者杯暨全民电竞战歌，黄霄雲×王者荣耀合作，午上/笛戈作词，Leah Muscat等三位国际作者作曲。"
+  },
+  {
+   "title": "Lydia",
+   "type": "翻唱单曲",
+   "album": "",
+   "ost_for": "翻唱（原唱：飞儿乐团）",
+   "date": "2022",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ]
+  },
+  {
+   "title": "后崩坏书2主题曲（Oracle 相关专辑）",
+   "type": "游戏OST",
+   "album": "崩坏3-后崩坏书2-Original Soundtrack",
+   "ost_for": "崩坏3《后崩坏书2》原声专辑（含Oracle/ReOracle）",
+   "date": "2022",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "高(本人微博官宣)",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4689296089681614",
+     "date": "2021-10-06",
+     "url": "https://weibo.com/5043186742/KBsZWECD4"
+    },
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4702728716552664",
+     "date": "2021-11-12",
+     "url": "https://weibo.com/5043186742/L18Z9ruE8"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ]
+  },
+  {
+   "title": "如果再爱",
+   "type": "影视OST片尾曲",
+   "album": "",
+   "ost_for": "影视剧《赖猫的狮子倒影》片尾曲",
+   "date": "2022",
+   "lyricist": "周洁颖",
+   "composer": "大圣",
+   "arranger": "待补",
+   "producer": "仁溪音乐（出品）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://music.163.com/album?id=146261363"
+   ],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ],
+   "intro": "影视剧《赖猫的狮子倒影》片尾曲：周洁颖作词、大圣作曲、仁溪音乐出品；澄澈柔软的嗓音讲述貌合神离的两人彼此靠近又被命运阻拦。"
+  },
+  {
+   "title": "来自星星的你",
+   "type": "翻唱单曲",
+   "album": "",
+   "ost_for": "《별에서 온 그대》中文翻唱",
+   "date": "2022",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ]
+  },
+  {
+   "title": "来自星星的你（中文版）",
+   "type": "翻唱单曲（待核）",
+   "album": "",
+   "ost_for": "韩剧《来自星星的你》主题曲中文翻唱",
+   "date": "2022",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）",
+    "https://h5.1ting.com/singer/d6/singer_39556.html"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://h5.1ting.com/singer/d6/singer_39556.html"
+    }
+   ]
+  },
+  {
+   "title": "梦想开怀",
+   "type": "合唱单曲",
+   "album": "",
+   "ost_for": "与梦响强音旗下艺人合唱",
+   "date": "2022",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ]
+  },
+  {
+   "title": "蝴蝶夫人",
+   "type": "合唱单曲（综艺）",
+   "album": "",
+   "ost_for": "《天赐的声音第三季》与王赫野合唱",
+   "date": "2022",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）",
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "向阳",
+   "type": "影视OST插曲",
+   "album": "特战行动 影视原声专辑",
+   "ost_for": "电视剧《特战行动》插曲",
+   "date": "2022-01-19",
+   "lyricist": "吕雯",
+   "composer": "吕雯",
+   "arranger": "姚雷@YEYA Music（兼吉他；鼓：祁大为）",
+   "producer": "吕雯（版权：北京天浩盛世；专辑出品人：周浩）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://i.y.qq.com/n2/m/share/details/album.html?albummid=000qlaLS2uWlKF"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料62-63）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料62-63）"
+    }
+   ],
+   "intro": "电视剧《特战行动》插曲：吕雯包办词曲、制作、和声编写与配唱制作，姚雷编曲；『不负韶华，未来可期，向着阳光的方向，挥洒青春的篇章』。"
+  },
+  {
+   "title": "你逆着光而来",
+   "type": "影视OST主题曲",
+   "album": "",
+   "ost_for": "电视剧《假日暖洋洋2》主题曲",
+   "date": "2022-01-25",
+   "lyricist": "王同学Able",
+   "composer": "王同学Able",
+   "arranger": "张楚弦@光合声动",
+   "producer": "胡皓（兼配唱制作人）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://music.douban.com/subject/35775629/"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料65）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4729326111557844",
+     "date": "2022-01-25",
+     "url": "https://weibo.com/5043186742/LciUb6xgw"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料65）"
+    }
+   ],
+   "duration": "约3:17",
+   "intro": "电视剧《假日暖洋洋2》主题曲：王同学Able词曲，胡皓制作、张楚弦编曲（光合声动）；澄澈嗓音讲述温暖相遇。"
+  },
+  {
+   "title": "伟大梦想",
+   "type": "官方委约单曲",
+   "album": "",
+   "ost_for": "2022年空军迎新春网络团拜曲",
+   "date": "2022-01-27",
+   "lyricist": "空军政治工作部宣传文化中心蓝天",
+   "composer": "郝松",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kuwo.cn/play_detail/207800072"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料66）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189（参考资料66）"
+    }
+   ],
+   "intro": "2022年空军迎新春网络团拜曲：空军政治工作部宣传文化中心蓝天作词、音乐制作人郝松作曲，黄霄雲演唱。"
+  },
+  {
+   "title": "重返地球",
+   "type": "影视OST主题曲",
+   "album": "",
+   "ost_for": "动画电影《熊出没·重返地球》主题曲",
+   "date": "2022-02-03",
+   "lyricist": "唐恬",
+   "composer": "李智平",
+   "arranger": "陈俊威/占伟帆/李茜",
+   "producer": "（监制：李智平；混音：RC Studios李马科；音乐发行营销：奔跑怪物）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kugou.com/song-36/2f1d4q9d.html"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4732773447502341",
+     "date": "2022-02-03",
+     "url": "https://weibo.com/5043186742/LdKAovtHv"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "duration": "4:54",
+   "intro": "动画电影《熊出没·重返地球》主题曲：唐恬作词、李智平作曲并监制，陈俊威/占伟帆/李茜编曲；『你要飞去哪，想家的孩子啊』。"
+  },
+  {
+   "title": "ReOracle",
+   "type": "游戏OST",
+   "album": "崩坏3-后崩坏书2-Original Soundtrack",
+   "ost_for": "崩坏3后崩坏书2原声音乐专辑",
+   "date": "2022-02-17",
+   "lyricist": "",
+   "composer": "文驰Vinchi（HOYO-MiX，Remix）",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4689296089681614",
+     "date": "2021-10-06",
+     "url": "https://weibo.com/5043186742/KBsZWECD4"
+    },
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4702728716552664",
+     "date": "2021-11-12",
+     "url": "https://weibo.com/5043186742/L18Z9ruE8"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ],
+   "intro": "HOYO-MiX于网易云音乐投稿的《Oracle》Remix版本，收录于专辑《崩坏3-后崩坏书2-Original Soundtrack》。"
+  },
+  {
+   "title": "故人归",
+   "type": "纪念曲",
+   "album": "",
+   "ost_for": "《秦时明月》播出十五周年特别纪念曲",
+   "date": "2022-02-24",
+   "lyricist": "张鹏鹏",
+   "composer": "周以力",
+   "arranger": "林逸航/王东宇",
+   "producer": "周以力（配唱制作人：黄霄雲）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.shiyinren.net/song/547215.html"
+   ],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4740385840041378",
+     "date": "2022-02-24",
+     "url": "https://weibo.com/5043186742/LgWCs0aLo"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ],
+   "intro": "《秦时明月》播出十五周年特别纪念曲、亦为《新秦时明月之夜尽天明》片尾曲（收录于15周年特别版《雲霄秦歌》）：张鹏鹏作词、周以力作曲制作，黄霄雲本人担任配唱制作人。"
+  },
+  {
+   "title": "New World",
+   "type": "翻唱改编单曲",
+   "album": "",
+   "ost_for": "人民日报新编版《New Boy》，两万余名网友参与填词",
+   "date": "2022-03",
+   "lyricist": "两万余名网友众筹填词",
+   "composer": "朴树（原曲New Boy）",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ],
+   "intro": "人民日报新媒体『唱给中国』歌词众筹活动主题曲：改编自朴树《New Boy》，两万余名网友参与填词，黄霄雲演唱；2022-03-11另有『二十四伎乐』民乐版。"
+  },
+  {
+   "title": "让世界再明亮",
+   "type": "公益合唱单曲",
+   "album": "",
+   "ost_for": "与《中国好声音》一众歌手合唱抗疫单曲",
+   "date": "2022-03-27",
+   "lyricist": "鲍毅",
+   "composer": "刘志宏",
+   "arranger": "徐肖",
+   "producer": "严若晨",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kuwo.cn/play_detail/214706109"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "与好声音系28位歌手（吉克隽逸/吴莫愁/袁娅维/单依纯等）合唱的抗疫公益单曲：鲍毅作词、刘志宏作曲、徐肖编曲、严若晨制作。"
+  },
+  {
+   "title": "奈何奈何",
+   "type": "影视OST插曲",
+   "album": "",
+   "ost_for": "网剧《说英雄谁是英雄》插曲",
+   "date": "2022-06-01",
+   "lyricist": "南岐",
+   "composer": "萧燃",
+   "arranger": "刘少卿（吉他：赵金山；笛子：囚牛；弦乐：国家首席爱乐乐团）",
+   "producer": "崔博（混音：郑昊杰；母带：2496 TopMusic；监制：刘硕/杨午景）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://music.douban.com/subject/35921825/"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189（参考资料271）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4775565531807914",
+     "date": "2022-06-01",
+     "url": "https://weibo.com/5043186742/LvHNT7AjU"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189（参考资料271）"
+    }
+   ],
+   "intro": "网剧《说英雄谁是英雄》插曲：南岐作词、萧燃作曲、崔博制作，刘少卿编曲，国家首席爱乐乐团弦乐、囚牛笛子；完美青春OST制作营销。"
+  },
+  {
+   "title": "七月何夕",
+   "type": "节庆单曲",
+   "album": "七月何夕",
+   "ost_for": "七夕单曲（中国青年报·中青在线出品）",
+   "date": "2022-08-03",
+   "lyricist": "靳苓艺",
+   "composer": "孙艾藜",
+   "arranger": "孙沛",
+   "producer": "孙艾藜",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "http://www.geci9999.com/geci/161482.htm",
+    "https://2008dj.com/thread-680413-1-1044.html"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4798820283587016",
+     "date": "2022-08-04",
+     "url": "https://weibo.com/5043186742/LFsLyf396"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "http://www.geci9999.com/geci/161482.htm"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://2008dj.com/thread-680413-1-1044.html"
+    }
+   ]
+  },
+  {
+   "title": "涉海前行",
+   "type": "影视OST片头曲",
+   "album": "",
+   "ost_for": "电视剧《简言的夏冬》片头曲",
+   "date": "2022-08-24",
+   "lyricist": "沃特艾文儿",
+   "composer": "JXL/Goldpig",
+   "arranger": "Goldpig",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [
+    "http://www.kuwo.cn/play_detail/235591696"
+   ],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4806027918444163",
+     "date": "2022-08-24",
+     "url": "https://weibo.com/5043186742/M2wOrzqIb"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ],
+   "intro": "电视剧《简言的夏冬》片头曲：沃特艾文儿作词、JXL x Goldpig作曲编曲，索尼音乐发行；『让我们终于能望穿那海域』。"
+  },
+  {
+   "title": "没离开过",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《中国梦之声·我们的歌第四季》（原唱：林志炫）",
+   "date": "2022-10",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "爱上你只是我的错",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《中国梦之声·我们的歌第四季》（原唱：信乐团等）",
+   "date": "2022-10",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "千年之恋",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《中国梦之声·我们的歌第四季》（原唱：信/戴爱玲）；2026-02-06获荣耀华流金曲",
+   "date": "2022-11",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014",
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "流浪的红舞鞋",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《中国梦之声·我们的歌第四季》（原唱：王菲）",
+   "date": "2022-11",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "破茧",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《中国梦之声·我们的歌第四季》（原唱：张韶涵）",
+   "date": "2022-11",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "给电影人的情书",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《中国梦之声·我们的歌第四季》（原唱：蔡琴）",
+   "date": "2022-11",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "Time To Say Goodbye",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《中国梦之声·我们的歌第四季》与林志炫合唱（原唱：Andrea Bocelli）",
+   "date": "2022-12",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "你的样子",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《中国梦之声·我们的歌第四季》（原唱：罗大佑）",
+   "date": "2022-12",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "她她她",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《中国梦之声·我们的歌第四季》",
+   "date": "2022-12",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "离人",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《中国梦之声·我们的歌第四季》（原唱：林志炫）",
+   "date": "2022-12",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014",
+    "https://m.hupu.com/bbs-share/629328750.html"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.hupu.com/bbs-share/629328750.html"
+    }
+   ]
+  },
+  {
+   "title": "海豚泪",
+   "type": "单曲",
+   "album": "",
+   "ost_for": "",
+   "date": "2022-12-15",
+   "lyricist": "黄然@兔迪文化",
+   "composer": "谢苑秋@兔迪文化",
+   "arranger": "鸟鸟@兔迪文化（bass：Zulhilmy Zulkifli；和声：Belin许咏慧）",
+   "producer": "姜皓中@兔迪文化（兼配唱制作人）",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4846879857444305",
+     "date": "2022-12-15",
+     "url": "https://weibo.com/5043186742/MjFyFveBr"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ],
+   "intro": "收录于公益音乐专辑《One Earth, One Love》：黄然作词、谢苑秋作曲（兔迪文化），鸟鸟编曲、姜皓中制作。"
+  },
+  {
+   "title": "Waiting For You",
+   "type": "影视OST主题曲",
+   "album": "",
+   "ost_for": "网络剧《一不小心瞄上你》主题曲",
+   "date": "2022-12-23",
+   "lyricist": "林耕禾",
+   "composer": "王艳薇/林耕禾",
+   "arranger": "陈麒元@NoMarryStudio（兼吉他/贝斯）",
+   "producer": "张恋歌（兼配唱制作人/和声；混音母带：刘思宇@NEWBAND STUDIO；音乐制作：反正靠谱）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://musicupload.netease.com/m/album?id=157090252"
+   ],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4848341365823954",
+     "date": "2022-12-19",
+     "url": "https://weibo.com/5043186742/MkhzWor4K"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ],
+   "intro": "网络剧《一不小心喵上你》主题曲：林耕禾作词、王艳薇/林耕禾作曲、张恋歌制作，反正靠谱统筹；原声大碟同日上线。"
+  },
+  {
+   "title": "雾里",
+   "type": "晚会舞台翻唱（合唱）",
+   "album": "",
+   "ost_for": "《中央广播电视总台2023网络春晚》与么红、王晰合唱（原唱：姚六一）",
+   "date": "2023-01-14",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "要不然我们就这样一万年",
+   "type": "影视OST插曲",
+   "album": "长月烬明 电视剧原声带",
+   "ost_for": "电视剧《长月烬明》插曲",
+   "date": "2023-04-10",
+   "lyricist": "段思思",
+   "composer": "谭旋",
+   "arranger": "李建衡（弦乐：国际首席爱乐乐团；笛/箫：丁晓逵；录音：徐威@上海V-Studio；混音：赵靖BIG.J@SBMS Beijing）",
+   "producer": "谭旋（制作发行：上海希瓜音乐制作有限公司）",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4888920557618190",
+     "date": "2023-04-10",
+     "url": "https://weibo.com/5043186742/MBjefvXQ2"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "duration": "4:44",
+   "intro": "网剧《长月烬明》插曲：段思思作词、谭旋作曲制作、李建衡编曲（希瓜音乐）；大婚名场面BGM出圈，被称『美到哭』。"
+  },
+  {
+   "title": "以我之躯",
+   "type": "影视OST插曲",
+   "album": "长月烬明 电视剧原声带 关大洲作品",
+   "ost_for": "网剧《长月烬明》插曲（战歌向）",
+   "date": "2023-04-14",
+   "lyricist": "张鹏鹏/关大洲",
+   "composer": "关大洲",
+   "arranger": "关大洲",
+   "producer": "关大洲",
+   "her_composition": false,
+   "platform_urls": [
+    "http://www.kuwo.cn/play_detail/270392114"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E4%BB%A5%E6%88%91%E4%B9%8B%E8%BA%AF/62856766",
+    "http://m.geci9999.com/geci/453688.htm"
+   ],
+   "confidence": "高",
+   "note": "另有吟唱版，百度百科称2024-04-06发布（疑为2023-04-06之误，待核）",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4889469800422037",
+     "date": "2023-04-11",
+     "url": "https://weibo.com/5043186742/MBxw81LN3"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E4%BB%A5%E6%88%91%E4%B9%8B%E8%BA%AF/62856766"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "http://m.geci9999.com/geci/453688.htm"
+    }
+   ]
+  },
+  {
+   "title": "一路都是歌",
+   "type": "晚会舞台曲",
+   "album": "",
+   "ost_for": "《奔跑的青春——2023五四青年节特别节目》",
+   "date": "2023-05-04",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "梅",
+   "type": "节目改编演唱",
+   "album": "",
+   "ost_for": "《经典咏流传·正青春》第七期",
+   "date": "2023-06-11",
+   "lyricist": "改编自古典诗词（待补）",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "伙伴 (partner)",
+   "type": "游戏推广曲",
+   "album": "伙伴 (partner)",
+   "ost_for": "DNF《地下城与勇士》弓箭手职业上线推广曲（十五周年庆）",
+   "date": "2023-06-16",
+   "lyricist": "画棠@金蜗牛lrc/邓舒月",
+   "composer": "邓舒月",
+   "arranger": "周富坚",
+   "producer": "周富坚",
+   "her_composition": false,
+   "platform_urls": [
+    "http://www.kuwo.cn/play_detail/279459962"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E4%BC%99%E4%BC%B4/63115270",
+    "http://www.kuwo.cn/play_detail/279459962"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E4%BC%99%E4%BC%B4/63115270"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "http://www.kuwo.cn/play_detail/279459962"
+    }
+   ]
+  },
+  {
+   "title": "The Diva Dance（第五元素）",
+   "type": "舞台翻唱",
+   "album": "",
+   "ost_for": "第25届上海国际电影节金爵奖颁奖典礼电影音乐连唱（电影《第五元素》插曲）",
+   "date": "2023-06-17",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189",
+    "https://m.hupu.com/bbs-share/629328750.html"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.hupu.com/bbs-share/629328750.html"
+    }
+   ]
+  },
+  {
+   "title": "赤梦华夏",
+   "type": "合作专辑曲",
+   "album": "赤梦华夏（合作音乐专辑）",
+   "ost_for": "合作音乐专辑收录曲",
+   "date": "2023-06-20",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高(本人微博官宣)",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4915784125517208",
+     "date": "2023-06-23",
+     "url": "https://weibo.com/5043186742/N6CCgn9he"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "淬炼",
+   "date": "2023-06-23",
+   "duration": "",
+   "intro": "合作音乐专辑《赤梦华夏》（中国新闻出版传媒集团×TME×未来天空音乐）第四曲：张毛毛作词、胡宸作曲、刘苏毅编曲、Bryan(孙伟)制作；黄霄雲参与吟唱编写，歌声唱出追梦路上的坚毅。",
+   "lyricist": "张毛毛",
+   "composer": "胡宸@U.M.C",
+   "arranger": "刘苏毅@U.M.C",
+   "producer": "Bryan（孙伟）",
+   "her_composition": "吟唱编写(参与)",
+   "platform_urls": [],
+   "sources": [
+    "https://baike.baidu.com/item/%E6%B7%AC%E7%82%BC/63129356",
+    "https://music.douban.com/subject/36456492/",
+    "https://music.gtimg.cn/n/ryqq/albumDetail/0045SIFe3G5pGd"
+   ],
+   "confidence": "高",
+   "note": "v1重要修正：她在《赤梦华夏》专辑中的收录曲名为《淬炼》（v1条目误以专辑名『赤梦华夏』作歌名）；专辑2023-06-20发布/06-23发行；她参与吟唱编写"
+  },
+  {
+   "title": "心路 (Daylight)",
+   "type": "合作feat单曲",
+   "album": "",
+   "ost_for": "与Alan Walker合作",
+   "date": "2023-08-17",
+   "lyricist": "原词曲：Alan Walker/Øyvind Sauvik/Marcus Arnbekk/Fredrik Borch Olsen/Gunnar Greve/Jesper Borgen/Magnus Clausen/Tommy LaVerdi；中文词：Messa",
+   "composer": "Alan Walker/Øyvind Sauvik/Marcus Arnbekk/Fredrik Borch Olsen/Gunnar Greve/Jesper Borgen/Magnus Clausen/Tommy LaVerdi",
+   "arranger": "待补",
+   "producer": "Alan Walker/Kasper",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "duration": "2:33",
+   "intro": "与Alan Walker合作：首次对个人单曲《Not You》进行中文版重置的跨国合作，中文词Messa；以星海、万家灯火意象串联孤独、释怀到期待。"
+  },
+  {
+   "title": "冥冥",
+   "type": "影视OST插曲",
+   "album": "",
+   "ost_for": "电视剧《以爱为营》插曲",
+   "date": "2023-11-03",
+   "lyricist": "杨晓磊",
+   "composer": "王天胤",
+   "arranger": "王天胤（吉他：羽川；弦乐：国际首席爱乐乐团；录音：邢铜）",
+   "producer": "刘靖×刘炫豆×张靖怡（音乐制作人组；合声编写：刘炫豆；OP：TME影音+×青春繁花）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kuwo.cn/play_detail/314594289"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4963966512268264",
+     "date": "2023-11-03",
+     "url": "https://weibo.com/5043186742/NqQ3N9w4U"
+    },
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4965383067140523",
+     "date": "2023-11-07",
+     "url": "https://weibo.com/5043186742/NrqUytXzJ"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "电视剧《以爱为营》插曲：杨晓磊作词、王天胤作曲编曲，青春繁花×TME影音+制作；2023-11-03首发，11-13收录于原声带。"
+  },
+  {
+   "title": "怕梦",
+   "type": "舞台曲（发行待核）",
+   "album": "",
+   "ost_for": "《美好惊喜夜》表演曲",
+   "date": "2023-12-28",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189",
+    "https://m.weibo.cn/status/5204210945888857"
+   ],
+   "confidence": "高(本人微博官宣)",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4974938557776685",
+     "date": "2023-12-03",
+     "url": "https://weibo.com/5043186742/NvruDwD4p"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.weibo.cn/status/5204210945888857"
+    }
+   ]
+  },
+  {
+   "title": "告白画面",
+   "type": "影视OST插曲",
+   "album": "",
+   "ost_for": "电视剧《别对我动心》插曲",
+   "date": "2024-03-01",
+   "lyricist": "张赢",
+   "composer": "郑国锋",
+   "arranger": "邱凯辉（吉他：齐成刚；弦乐：星洲爱乐团，监制庞阔）",
+   "producer": "郑国锋（配唱：张伊然/郑国锋；录音：张伊然@北京维伴录音棚；混音：刘三斤）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.goflac.com/songs/473130061"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5007058713709714",
+     "date": "2024-03-01",
+     "url": "https://weibo.com/5043186742/O2XD1fz46"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "网剧《别对我动心》插曲：张赢作词、郑国锋作曲制作，用『糖份百分百』的嗓音唱述暖心爱恋。"
+  },
+  {
+   "title": "画心",
+   "type": "综艺舞台翻唱（合唱）",
+   "album": "",
+   "ost_for": "《天赐的声音第五季》与张信哲合唱（原唱：张靓颖）",
+   "date": "2024-05-03",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189",
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "情字诀",
+   "type": "影视OST曲",
+   "album": "",
+   "ost_for": "电视剧《金庸武侠世界》歌曲",
+   "date": "2024-06-18",
+   "lyricist": "周洁颖",
+   "composer": "胡小鸥",
+   "arranger": "周一（和声：刘恪诚和声组）",
+   "producer": "（OST版混音/母带：时兵；音乐推广：TME影音+）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kuwo.cn/play_detail/385552539"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5046592379293271",
+     "date": "2024-06-18",
+     "url": "https://weibo.com/5043186742/Ojy4ZCZBt"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "《金庸武侠世界》（铁血丹心单元）插曲：周洁颖作词、胡小鸥作曲，收录于《金庸武侠世界 影视原声带》；MV于2025-08-01上线。"
+  },
+  {
+   "title": "星辰大海（歌手2024舞台）",
+   "type": "综艺舞台（原唱自己）",
+   "album": "",
+   "ost_for": "《歌手2024》第七集（2024-06-21），冲榜失败",
+   "date": "2024-06-21",
+   "lyricist": "瞿子千/刘涛/温莨",
+   "composer": "瞿子千/刘涛",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://zh.m.wikipedia.org/zh-hk/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）",
+    "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4719809067224056",
+     "date": "2021-12-29",
+     "url": "https://weibo.com/5043186742/L8jk6ujj2"
+    },
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5170240977374773",
+     "date": "2025-05-25",
+     "url": "https://weibo.com/5043186742/PtthTuWvX"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.m.wikipedia.org/zh-hk/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%84%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "落凡尘",
+   "type": "影视OST主题曲",
+   "album": "",
+   "ost_for": "动画电影《落凡尘》主题曲",
+   "date": "2024-07-10",
+   "lyricist": "林乔/午上",
+   "composer": "文舒音",
+   "arranger": "何山@KME（兼弦乐编写；弦乐监制胡静成；和声编写/和声：胡维纳）",
+   "producer": "周品@KME（与曹洋@C·VOICE联合配唱制作；混音母带：曹洋@C·VOICE；制作统筹：奔跑怪物）",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189",
+    "https://m.weibo.cn/status/5204210945888857"
+   ],
+   "confidence": "高",
+   "note": "2024-07-10带伤出席首映礼献唱；音源上线具体日期待补",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.weibo.cn/status/5204210945888857"
+    }
+   ],
+   "intro": "动画电影《落凡尘》同名片尾曲（v1误作主题曲）：林乔/午上作词、文舒音作曲、周品@KME制作、何山@KME编曲；『烟会消雨会散，繁星漫天绽放』，带伤出席首映礼献唱。"
+  },
+  {
+   "title": "没语季节（先行单曲）",
+   "type": "专辑先行主打单曲",
+   "album": "没语季节（2024-11-15 华纳唱片，她本人担任制作人与出品人）",
+   "ost_for": "",
+   "date": "2024-07-20",
+   "lyricist": "易家扬",
+   "composer": "黄霄雲",
+   "arranger": "彭轩/黄霄雲/沈力",
+   "producer": "黄霄雲（键盘：彭轩/黄霄雲；吉他：胡晨HUX；鼓：郝稷伦；贝斯：耿伟华Gengo；弦乐：国际首席爱乐乐团；和声编写/和声/配唱：黄霄雲；录音：日生@RSS Studios；混音：刘俊杰）",
+   "her_composition": true,
+   "platform_urls": [
+    "https://www.kuwo.cn/play_detail/394167663",
+    "https://music.apple.com/cn/album/%E6%B2%A1%E8%AF%AD%E5%AD%A3%E8%8A%82/1778999637"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E6%B2%A1%E8%AF%AD%E5%AD%A3%E8%8A%82/64654707",
+    "https://www.kuwo.cn/play_detail/394167663"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5058136680956654",
+     "date": "2024-07-20",
+     "url": "https://weibo.com/5043186742/OoooQ40RU"
+    },
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5063330861941233",
+     "date": "2024-08-03",
+     "url": "https://weibo.com/5043186742/Oqzwy890d"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E6%B2%A1%E8%AF%AD%E5%AD%A3%E8%8A%82/64654707"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.kuwo.cn/play_detail/394167663"
+    }
+   ],
+   "intro": "首张原创专辑同名主打：易家扬×黄霄雲全心合作。『没语季节』一语双关——既是爱情里的失语状态，又谐音『梅雨季节』，连结天意与天气的羁绊，述说湿意与诗意的因缘。"
+  },
+  {
+   "title": "第一选择",
+   "type": "影视OST片头曲",
+   "album": "",
+   "ost_for": "电视剧《燃沙排少女》片头曲",
+   "date": "2024-07-29",
+   "lyricist": "王月阳",
+   "composer": "郭思达",
+   "arranger": "Jeffrey Z.",
+   "producer": "郭思达",
+   "her_composition": false,
+   "platform_urls": [
+    "https://music.migu.cn/v3/music/song/69024300324"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "青春竞技剧《燃！沙排少女》片头曲：王月阳作词、郭思达作曲并担任制作人，电子合成器融合流行摇滚，鼓点铺垫竞技张力。"
+  },
+  {
+   "title": "玫瑰星云（先行单曲）",
+   "type": "专辑先行单曲",
+   "album": "没语季节",
+   "ost_for": "",
+   "date": "2024-07-31",
+   "lyricist": "林乔/午上",
+   "composer": "黄霄雲",
+   "arranger": "余威（吉他/贝斯：宫呈龙；鼓：黄霄雲；录音：邢铜；混音母带：刘俊杰）",
+   "producer": "黄霄雲（兼和声编写/和声/监制；配唱：黄霄雲/沈力）",
+   "her_composition": true,
+   "platform_urls": [
+    "https://music.migu.cn/v3/music/song/6005753FMWC"
+   ],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）",
+    "https://music.douban.com/subject/37117878/"
+   ],
+   "confidence": "高",
+   "note": "作曲署名待补（Apple Music 介绍其参与全专创作环节）",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5127554778531963",
+     "date": "2025-01-27",
+     "url": "https://weibo.com/5043186742/PbyPbzNyj"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://music.douban.com/subject/37117878/"
+    }
+   ],
+   "duration": "4:11",
+   "intro": "从《打开》到盛开，炙热旋律为『她』而歌：玫瑰星云绽放在5200光年外的宇宙深处，以气势如虹的钢琴与弦乐歌颂女性如恒星诞生摇篮般的耀眼与芬芳；海外版另名NGC2237。"
+  },
+  {
+   "title": "鲁冰花",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《中国梦之声·我们的歌第六季》（原唱：甄妮）",
+   "date": "2024-08",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "盲选（先行单曲）",
+   "type": "专辑先行单曲",
+   "album": "没语季节",
+   "ost_for": "",
+   "date": "2024-08-09",
+   "lyricist": "小寒",
+   "composer": "黄霄雲",
+   "arranger": "黄霄雲",
+   "producer": "黄霄雲",
+   "her_composition": true,
+   "platform_urls": [
+    "https://www.kuwo.cn/play_detail/402077143"
+   ],
+   "source_urls": [
+    "https://www.kuwo.cn/play_detail/402077143",
+    "https://wapbaike.baidu.com/item/%E6%B2%A1%E8%AF%AD%E5%AD%A3%E8%8A%82/64686460"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5065497974147898",
+     "date": "2024-08-09",
+     "url": "https://weibo.com/5043186742/OrtTThp3A"
+    },
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5065254167642459",
+     "date": "2024-08-09",
+     "url": "https://weibo.com/5043186742/OrnyEw49t"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.kuwo.cn/play_detail/402077143"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://wapbaike.baidu.com/item/%E6%B2%A1%E8%AF%AD%E5%AD%A3%E8%8A%82/64686460"
+    }
+   ],
+   "intro": "小寒×黄霄雲咏梦而歌：梦想始于被『盲』眼『选』择的未知旅途——『成为灯塔，或是箭靶。自成耀眼，不再惧怕』；『盲眼选拔，与梦对打，我也不差』。"
+  },
+  {
+   "title": "若把你",
+   "type": "晚会舞台翻唱",
+   "album": "",
+   "ost_for": "《2024年中央广播电视总台七夕特别节目》（原唱：咔咔/钟子乔）",
+   "date": "2024-08-10",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "没了我你依然拥有太阳（专辑版）",
+   "type": "专辑曲（重制）",
+   "album": "没语季节",
+   "ost_for": "",
+   "date": "2024-08-16",
+   "lyricist": "黄霄雲/施牧辰",
+   "composer": "黄霄雲/施牧辰",
+   "arranger": "黄霄雲",
+   "producer": "黄霄雲",
+   "her_composition": "曲(合作)+词(合作)",
+   "platform_urls": [
+    "https://music.migu.cn/v3/music/song/6005753FR58"
+   ],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "高",
+   "note": "原版为2019-11-10单曲；2024专辑重制版作曲署名待补",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5067785191293879",
+     "date": "2024-08-16",
+     "url": "https://weibo.com/5043186742/OsroX5qB1"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ],
+   "intro": "『从词曲到编曲，从键盘到和声，制作名单的十一次出现』：2019不完整demo因听众故事变完整，钢琴与低音提琴铺陈破碎感唱腔。"
+  },
+  {
+   "title": "如歌",
+   "type": "综艺舞台曲",
+   "album": "",
+   "ost_for": "《中国梦之声·我们的歌第六季》第六期（2024-08-25）",
+   "date": "2024-08-25",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "红月亮规则",
+   "type": "综艺舞台曲",
+   "album": "",
+   "ost_for": "《中国梦之声·我们的歌第六季》第六期（2024-08-25）",
+   "date": "2024-08-25",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189",
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "袖手旁观",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《中国梦之声·我们的歌第六季》（原唱：张学友/萧敬腾）",
+   "date": "2024-09",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "许愿",
+   "type": "综艺舞台翻唱",
+   "album": "",
+   "ost_for": "《中国梦之声·我们的歌第六季》（原唱：范晓萱）",
+   "date": "2024-09",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "小云（先行单曲）",
+   "type": "专辑先行单曲",
+   "album": "没语季节",
+   "ost_for": "",
+   "date": "2024-09-10",
+   "lyricist": "临渡（部分歌词页作『临度』）",
+   "composer": "黄霄雲",
+   "arranger": "李清扬/魏路遥（吉他：陈麒元/周千朔；鼓：郝稷伦；弦乐：国际首席爱乐乐团）",
+   "producer": "黄霄雲（和声编写/和声：黄霄雲；配唱：沈力/黄霄雲）",
+   "her_composition": true,
+   "platform_urls": [
+    "https://www.goflac.com/songs/513425474"
+   ],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5077071384810167",
+     "date": "2024-09-10",
+     "url": "https://weibo.com/5043186742/OwkYGkbll"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ],
+   "duration": "3:33",
+   "intro": "为『雲』而作的治愈系温煦乐章：一朵小云从天空的画布、徐志摩的诗句和霄雲的音乐里来，温柔慵懒；『今天你也会来找我吗？我就在那样的云底下等你』。"
+  },
+  {
+   "title": "仰世而来",
+   "type": "晚会舞台翻唱",
+   "album": "",
+   "ost_for": "《2024年中央广播电视总台中秋晚会》（原唱：徐佳莹）",
+   "date": "2024-09-17",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "回音如果（先行单曲）",
+   "type": "专辑先行单曲",
+   "album": "没语季节",
+   "ost_for": "",
+   "date": "2024-09-19",
+   "lyricist": "易家扬",
+   "composer": "黄霄雲",
+   "arranger": "王义雄/黄霄雲",
+   "producer": "黄霄雲",
+   "her_composition": true,
+   "platform_urls": [],
+   "source_urls": [
+    "https://wapbaike.baidu.com/item/%E5%9B%9E%E9%9F%B3%E5%A6%82%E6%9E%9C/64915220"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5081707053318918",
+     "date": "2024-09-23",
+     "url": "https://weibo.com/5043186742/OyhzzdVoW"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://wapbaike.baidu.com/item/%E5%9B%9E%E9%9F%B3%E5%A6%82%E6%9E%9C/64915220"
+    }
+   ],
+   "intro": "易家扬×黄霄雲，字字铿锵：人生越岭翻山，听过冷漠、挺过冷风、梦过冷落；声声回音是自然的回响、与世界对话的回应，更是自我成长后收获的回答。"
+  },
+  {
+   "title": "弦上生花（先行单曲）",
+   "type": "专辑先行单曲",
+   "album": "没语季节",
+   "ost_for": "",
+   "date": "2024-09-27",
+   "lyricist": "聿生（部分歌词页署拼音yuhan）",
+   "composer": "黄霄雲",
+   "arranger": "Terence Teo（吉他/贝斯：宫呈龙；弦乐：国际首席爱乐乐团）",
+   "producer": "黄霄雲（配唱：沈力/黄霄雲；和声编写：黄霄雲）",
+   "her_composition": true,
+   "platform_urls": [
+    "https://music.migu.cn/v3/music/song/6005753G68W"
+   ],
+   "source_urls": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要）"
+    }
+   ],
+   "intro": "唱给生命旅人的一首歌：『所谓山高水茫，不过是脚步连缀的长』；泪滴弦上会开出耀眼的花，夏雨秋光冬霜，终究会在春日盛放。"
+  },
+  {
+   "title": "说谎动物（先行单曲）",
+   "type": "专辑先行单曲",
+   "album": "没语季节",
+   "ost_for": "",
+   "date": "2024-10-15",
+   "lyricist": "米果",
+   "composer": "黄霄雲",
+   "arranger": "余威（鼓：郝稷伦；吉他：周千朔；弦乐：国际首席爱乐乐团）",
+   "producer": "黄霄雲（兼监制/和声编写/和声；配唱：黄霄雲/沈力）",
+   "her_composition": true,
+   "platform_urls": [
+    "https://music.migu.cn/v3/music/song/6005753GARR"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189",
+    "https://wapbaike.baidu.com/item/%E6%B2%A1%E8%AF%AD%E5%AD%A3%E8%8A%82/64686460"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://wapbaike.baidu.com/item/%E6%B2%A1%E8%AF%AD%E5%AD%A3%E8%8A%82/64686460"
+    }
+   ],
+   "intro": "专辑第八支主打：当谎言横亘在爱人之间，迷雾升起、真假倒错——『以为我爱你是谎话，原来说不爱才是最大的谎话』；米果作词。"
+  },
+  {
+   "title": "式微",
+   "type": "动画OST片尾曲",
+   "album": "牧神记 原声带",
+   "ost_for": "动画《牧神记》片尾曲（自第53集起ED2）",
+   "date": "2024-10-22",
+   "lyricist": "衣休",
+   "composer": "胡皓",
+   "arranger": "胡皓/张兆阳@光合声动",
+   "producer": "胡皓",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E5%BC%8F%E5%BE%AE/66915424"
+   ],
+   "confidence": "高",
+   "note": "MV于2025-10-18发布",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5223045872747351",
+     "date": "2025-10-18",
+     "url": "https://weibo.com/5043186742/Q9FwLbwI7"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E5%BC%8F%E5%BE%AE/66915424"
+    }
+   ]
+  },
+  {
+   "title": "人鱼之歌",
+   "type": "舞台曲（游戏合作）",
+   "album": "",
+   "ost_for": "《2024王者荣耀共创之夜》表演节目",
+   "date": "2024-10-27",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189",
+    "https://m.hupu.com/bbs-share/629328750.html"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.hupu.com/bbs-share/629328750.html"
+    }
+   ]
+  },
+  {
+   "title": "没语季节（专辑）",
+   "type": "专辑（首张个人原创专辑，10曲）",
+   "album": "没语季节（华纳唱片/北京回音如果文化传媒工作室）",
+   "ost_for": "",
+   "date": "2024-11-15",
+   "lyricist": "全专词作：易家扬、小寒等",
+   "composer": "黄霄雲（作曲参与，多首独立作曲）",
+   "arranger": "彭轩/黄霄雲/沈力/王义雄等",
+   "producer": "黄霄雲（制作人+出品人）",
+   "her_composition": true,
+   "platform_urls": [
+    "https://music.apple.com/cn/album/%E6%B2%A1%E8%AF%AD%E5%AD%A3%E8%8A%82/1778999637",
+    "https://music.douban.com/subject/37117878/"
+   ],
+   "source_urls": [
+    "https://wapbaike.baidu.com/item/%E6%B2%A1%E8%AF%AD%E5%AD%A3%E8%8A%82/64686460",
+    "https://music.douban.com/subject/37117878/"
+   ],
+   "confidence": "高",
+   "note": "专辑条目（非单曲）；10曲：没语季节/说谎动物/然后呢,最后呢/没了我你依然拥有太阳/觉醒时代/小云/盲选/弦上生花/回音如果/玫瑰星云",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5058136680956654",
+     "date": "2024-07-20",
+     "url": "https://weibo.com/5043186742/OoooQ40RU"
+    },
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5063330861941233",
+     "date": "2024-08-03",
+     "url": "https://weibo.com/5043186742/Oqzwy890d"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://wapbaike.baidu.com/item/%E6%B2%A1%E8%AF%AD%E5%AD%A3%E8%8A%82/64686460"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://music.douban.com/subject/37117878/"
+    }
+   ]
+  },
+  {
+   "title": "然后呢，最后呢（专辑曲）",
+   "type": "专辑曲目",
+   "album": "没语季节",
+   "ost_for": "",
+   "date": "2024-11-15",
+   "lyricist": "黄霄雲",
+   "composer": "黄霄雲/施牧辰",
+   "arranger": "彭轩等",
+   "producer": "黄霄雲",
+   "her_composition": "词+曲(合作)",
+   "platform_urls": [
+    "https://www.douyin.com/qishui/song/7436063269235050497"
+   ],
+   "source_urls": [
+    "https://www.shazam.com:443/zh-cn/song/1778999640/%E7%84%B6%E5%90%8E%E5%91%A2-%E6%9C%80%E5%90%8E%E5%91%A2",
+    "https://m.weibo.cn/status/5102766404669208#1"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5095885397038778",
+     "date": "2024-11-01",
+     "url": "https://weibo.com/5043186742/OEepRtx6G"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.shazam.com:443/zh-cn/song/1778999640/%E7%84%B6%E5%90%8E%E5%91%A2-%E6%9C%80%E5%90%8E%E5%91%A2"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.weibo.cn/status/5102766404669208#1"
+    }
+   ],
+   "intro": "当故事走到尽头仍追问『然后呢』，没有结局便不敢问『最后呢』；隽永旋律白描辗转心境，把藏匿于声音里的情绪暗流交付听歌的人。"
+  },
+  {
+   "title": "觉醒时代（专辑曲）",
+   "type": "专辑曲目",
+   "album": "没语季节",
+   "ost_for": "",
+   "date": "2024-11-15",
+   "lyricist": "黄霄雲",
+   "composer": "黄霄雲",
+   "arranger": "付思超",
+   "producer": "黄霄雲",
+   "her_composition": true,
+   "platform_urls": [
+    "https://www.kuwo.cn/play_detail/436258118"
+   ],
+   "source_urls": [
+    "https://wapbaike.baidu.com/item/%E6%B2%A1%E8%AF%AD%E5%AD%A3%E8%8A%82/64686460"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5100762554172287",
+     "date": "2024-11-15",
+     "url": "https://weibo.com/5043186742/P0jPVhvoX"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://wapbaike.baidu.com/item/%E6%B2%A1%E8%AF%AD%E5%AD%A3%E8%8A%82/64686460"
+    }
+   ],
+   "duration": "3:58",
+   "intro": "浴火觉醒，灿烂重生；以痛吻我，报之以歌。电子鼓点声声叩问灵魂，燃动旋律与滚烫音色镌刻经历风暴后满身伤痕仍不灭的自我火焰。"
+  },
+  {
+   "title": "山海",
+   "type": "综艺舞台翻唱（合唱）",
+   "album": "",
+   "ost_for": "《下一战歌手》总决赛与白举纲合唱（原唱：草东没有派对）",
+   "date": "2024-11-22",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "灿若星辰",
+   "type": "晚会曲",
+   "album": "",
+   "ost_for": "《启航2025——中央广播电视总台跨年晚会》演唱",
+   "date": "2024-12-31",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189",
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要：2023年条目）"
+   ],
+   "confidence": "中",
+   "note": "维基2023年条目称其为某电视剧相关曲（剧名被截断），待核",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2（搜索摘要：2023年条目）"
+    }
+   ]
+  },
+  {
+   "title": "OKK",
+   "type": "合作舞台曲",
+   "album": "",
+   "ost_for": "《到湾区过大年——2025粤港澳大湾区春晚》与Vicetone表演",
+   "date": "2025-01-27",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高(本人微博官宣)",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5127554778531963",
+     "date": "2025-01-27",
+     "url": "https://weibo.com/5043186742/PbyPbzNyj"
+    },
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5127537132571861",
+     "date": "2025-01-27",
+     "url": "https://weibo.com/5043186742/PbymJaN3D"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "你在搞笑吗 (feat.小白)",
+   "type": "单曲（feat.爱犬小白）",
+   "album": "你在搞笑吗 (feat.小白)",
+   "ost_for": "",
+   "date": "2025-03-08",
+   "lyricist": "黄霄雲（待细核）",
+   "composer": "黄霄雲（待细核）",
+   "arranger": "黄霄雲（待细核）",
+   "producer": "黄霄雲（待细核）",
+   "her_composition": "待细核",
+   "platform_urls": [
+    "http://www.kuwo.cn/album_detail/65940527"
+   ],
+   "source_urls": [
+    "http://www.kuwo.cn/album_detail/65940527",
+    "https://k.sina.cn/article_5934541885_m161b9ec3d03301bsg0.html"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5142225911813971",
+     "date": "2025-03-09",
+     "url": "https://weibo.com/5043186742/PhIuj7BTB"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "http://www.kuwo.cn/album_detail/65940527"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://k.sina.cn/article_5934541885_m161b9ec3d03301bsg0.html"
+    }
+   ],
+   "intro": "与爱犬小白合作的趣味单曲，官方MV称『为爱犬写歌第一人』；粉丝梳理称词曲编制作均由黄霄雲本人完成（待平台credits细核）。"
+  },
+  {
+   "title": "烟火里的尘埃（翻唱版）",
+   "type": "翻唱单曲",
+   "album": "",
+   "ost_for": "华晨宇原唱歌曲正式翻唱上线（版权争议事件曲）",
+   "date": "2025-03-11",
+   "lyricist": "林夕",
+   "composer": "西楼",
+   "arranger": "彭轩/黄霄雲（钢琴：黄沛柠；贝斯：耿伟华Gengo；鼓：谢渊宇；吉他：林森密布）",
+   "producer": "沈力/彭轩@XYMusic（和声编写：黄霄雲/夏初安；配唱制作人：沈力）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kuwo.cn/play_detail/462445673"
+   ],
+   "source_urls": [
+    "https://www.baike.com/wikiid/7227109152631046155",
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5142800858091876",
+     "date": "2025-03-11",
+     "url": "https://weibo.com/5043186742/PhXrDxX48"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.baike.com/wikiid/7227109152631046155"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "正式买版翻唱华晨宇原唱作品（词林夕/曲西楼）：她本人参与编曲与和声编写，彭轩/黄霄雲编曲、沈力/彭轩制作；另有纯享版2025-04-11上线。"
+  },
+  {
+   "title": "追光",
+   "type": "官方委约曲（领唱）",
+   "album": "",
+   "ost_for": "第二届全国大学生职业规划大赛主题曲，与罗一舟领唱",
+   "date": "2025-04-14",
+   "lyricist": "安九",
+   "composer": "张征",
+   "arranger": "张恒/冯明枭",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kuwo.cn/play_detail/467936756"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5155272705970076",
+     "date": "2025-04-14",
+     "url": "https://weibo.com/5043186742/PnbTwp35y"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "第二届全国大学生职业规划大赛主题曲：安九作词、张征作曲，黄霄雲与罗一舟领唱、北京22所高校大学生代表合唱，讯飞音乐发行。"
+  },
+  {
+   "title": "若难过何必要过",
+   "type": "单曲",
+   "album": "",
+   "ost_for": "",
+   "date": "2025-04-17",
+   "lyricist": "刘畅",
+   "composer": "莫艳琳",
+   "arranger": "茶茶@第二月亮（弦乐：国家首席爱乐乐团，监制胡静成；贝斯：吴海涛）",
+   "producer": "莫艳琳（配唱制作人/和声：莫艳琳；人声编辑：耿潇微；录音：日升；混音：赵靖BIG.J@SBMS）",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://m.weibo.cn/status/5204210945888857",
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189（歌曲文案侵权条目：6月6日上线）"
+   ],
+   "confidence": "高",
+   "note": "2025-06-09『歌曲文案侵权』事件涉及其6月6日上线新歌，粉丝梳理即此曲，日期与署名待核",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5156365729005570",
+     "date": "2025-04-17",
+     "url": "https://weibo.com/5043186742/PnEksBML8"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.weibo.cn/status/5204210945888857"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189（歌曲文案侵权条目：6月6日上线）"
+    }
+   ],
+   "intro": "电视剧《蛮好的人生》片尾曲：刘畅作词、莫艳琳作曲并制作，茶茶@第二月亮编曲，国家首席爱乐乐团弦乐；2025-06-09『歌曲文案侵权』事件即涉此曲宣传文案。"
+  },
+  {
+   "title": "画中来",
+   "type": "单曲/舞台曲",
+   "album": "",
+   "ost_for": "《奋楫家国——沈水欢歌颂端阳》节目演唱（2025-05-31首演）",
+   "date": "2025-05-31",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189",
+    "https://m.hupu.com/bbs-share/629328750.html"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.hupu.com/bbs-share/629328750.html"
+    }
+   ]
+  },
+  {
+   "title": "别叹",
+   "type": "影视OST插曲",
+   "album": "朝雪录 影视原声带",
+   "ost_for": "电视剧《朝雪录》插曲（梦断曲）",
+   "date": "2025-07-09",
+   "lyricist": "龚淑均",
+   "composer": "衣睿",
+   "arranger": "衣睿",
+   "producer": "衣睿",
+   "her_composition": false,
+   "platform_urls": [
+    "https://y.qq.com/n/ryqq_v2/songDetail/588162785",
+    "https://www.kuwo.cn/play_detail/482884501"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E5%88%AB%E5%B9%B9/66200844",
+    "https://www.kuwo.cn/play_detail/482884501"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5186438665603763",
+     "date": "2025-07-09",
+     "url": "https://weibo.com/5043186742/PAgFcnvNh"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E5%88%AB%E5%B9%B9/66200844"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.kuwo.cn/play_detail/482884501"
+    }
+   ]
+  },
+  {
+   "title": "将安",
+   "type": "影视OST插曲",
+   "album": "与晋长安 影视原声带",
+   "ost_for": "影视剧《与晋长安》羁绊守护曲/插曲",
+   "date": "2025-08-28",
+   "lyricist": "申名利",
+   "composer": "李牧野",
+   "arranger": "杨秉音/李牧野（制作公司：秉音创声）",
+   "producer": "杨秉音/李牧野",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kuwo.cn/play_detail/494424150",
+    "https://music.apple.com/ky/album/1835579313"
+   ],
+   "source_urls": [
+    "https://www.kuwo.cn/play_detail/494424150"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5204194077704561",
+     "date": "2025-08-27",
+     "url": "https://weibo.com/5043186742/Q1L6Dwkj7"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.kuwo.cn/play_detail/494424150"
+    }
+   ]
+  },
+  {
+   "title": "爱入青云",
+   "type": "影视OST曲",
+   "album": "",
+   "ost_for": "电视剧《入青云》情入青云曲",
+   "date": "2025-10-08",
+   "lyricist": "龚淑均",
+   "composer": "衣睿",
+   "arranger": "衣睿（吉他：齐成刚；弦乐：星洲爱乐团，监制庞阔）",
+   "producer": "衣睿（混音/母带：周天澈@Studio21A；人声编辑：刘俊杰；人声录音：日生@RSS Studios）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://y.music.163.com/m/album?id=288261528"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "duration": "3:44",
+   "intro": "影视剧《入青云》情入青云曲（亦作剧集片头曲）：龚淑均作词、衣睿作曲编曲制作，音太可文化制作；黄霄雲以标志性宽音域诠释双强爱恨。"
+  },
+  {
+   "title": "你真的够了",
+   "type": "二专首发主打单曲（全创作）",
+   "album": "第二张原创专辑（陆续发行中，环球音乐）",
+   "ost_for": "",
+   "date": "2025-12-09",
+   "lyricist": "黄霄雲",
+   "composer": "黄霄雲",
+   "arranger": "黄霄雲",
+   "producer": "黄霄雲",
+   "her_composition": true,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.umusic.com.cn/index.php?c=show&id=1742",
+    "https://www.huaiyinjie.com/new/49666.html",
+    "https://www.shiyinren.net/song/1142503.html"
+   ],
+   "confidence": "高",
+   "note": "词/曲/编曲/制作/键盘/和声编写/母带后期制作人全由黄霄雲独立操刀；东方风云榜第1677期第2名",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5241731513320190",
+     "date": "2025-12-09",
+     "url": "https://weibo.com/5043186742/QhvCTdVJs"
+    },
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5244132369897096",
+     "date": "2025-12-15",
+     "url": "https://weibo.com/5043186742/Qiw5eFwGA"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.umusic.com.cn/index.php?c=show&id=1742"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.huaiyinjie.com/new/49666.html"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.shiyinren.net/song/1142503.html"
+    }
+   ]
+  },
+  {
+   "title": "念与劫",
+   "type": "影视OST曲",
+   "album": "",
+   "ost_for": "电视剧《逍遥》心念成劫曲",
+   "date": "2025-12-22",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5246986125315032",
+     "date": "2025-12-23",
+     "url": "https://weibo.com/5043186742/QjIk4miGk"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "空心 (Live)",
+   "type": "综艺舞台翻唱（合唱）",
+   "album": "",
+   "ost_for": "《天赐的声音第七季》，与刘端端合唱（原唱：汪苏泷?待核）",
+   "date": "2026",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.shazam.com/artist/%E9%BB%83%E9%9C%84%E9%9B%B2/1478401199/releases"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.shazam.com/artist/%E9%BB%83%E9%9C%84%E9%9B%B2/1478401199/releases"
+    }
+   ]
+  },
+  {
+   "title": "消散（独唱版）",
+   "type": "单曲（重发）",
+   "album": "",
+   "ost_for": "",
+   "date": "2026-01-07",
+   "lyricist": "周典奥",
+   "composer": "周典奥",
+   "arranger": "待补",
+   "producer": "胡春阳/李丁",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E6%B6%88%E6%95%A3/23760608"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E6%B6%88%E6%95%A3/23760608"
+    }
+   ]
+  },
+  {
+   "title": "娃儿！莫怕",
+   "type": "二专单曲",
+   "album": "第二张原创专辑",
+   "ost_for": "",
+   "date": "2026-01-26",
+   "lyricist": "黄霄雲/珈兆",
+   "composer": "黄霄雲/孙思达",
+   "arranger": "关天天",
+   "producer": "关天天/黄霄雲",
+   "her_composition": "曲(合作)",
+   "platform_urls": [],
+   "source_urls": [
+    "https://wapbaike.baidu.com/item/%E5%A8%83%E5%84%BF%EF%BC%81%E8%8E%AB%E6%80%95/67283243"
+   ],
+   "confidence": "高",
+   "note": "融入布依族朵洛荷与布依/彝方言段落；环球音乐全球发行",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5260450536100727",
+     "date": "2026-01-29",
+     "url": "https://weibo.com/5043186742/QpmARpB4P"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://wapbaike.baidu.com/item/%E5%A8%83%E5%84%BF%EF%BC%81%E8%8E%AB%E6%80%95/67283243"
+    }
+   ]
+  },
+  {
+   "title": "山海之上",
+   "type": "官方委约曲（她创作）",
+   "album": "",
+   "ost_for": "贵州省第十二届运动会主题歌曲",
+   "date": "2026-02",
+   "lyricist": "黄霄雲及团队（官方称其创作，署名待细核）",
+   "composer": "黄霄雲及团队（待细核）",
+   "arranger": "（融入布依族号子）",
+   "producer": "待补",
+   "her_composition": "创作(署名待细核)",
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "黄霄雲及其团队为家乡贵州省第十二届运动会特别创作（又名《向风》）：融入布依族号子，歌词串联黔南山水地标与人文场景；2026-02-05都匀公益音乐会首唱，她自费携乐队返乡免费献演。"
+  },
+  {
+   "title": "万家灯火共团圆",
+   "type": "晚会舞台曲（合唱）",
+   "album": "",
+   "ost_for": "《2026辽宁春节联欢晚会》与孙楠合唱",
+   "date": "2026-02-15",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "前路",
+   "type": "影视OST插曲",
+   "album": "逐玉 影视原声带",
+   "ost_for": "影视剧《逐玉》插曲",
+   "date": "2026-03-10",
+   "lyricist": "陈曦",
+   "composer": "董冬冬",
+   "arranger": "闫天午",
+   "producer": "董冬冬",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kuwo.cn/play_detail/547130623"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E5%89%8D%E8%B7%AF/67447222",
+    "https://www.shiyinren.net/song/1192403.html"
+   ],
+   "confidence": "高",
+   "note": "OST试听2026-03-05上线",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5274861970916965",
+     "date": "2026-03-10",
+     "url": "https://weibo.com/5043186742/Qvpv73QxL"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E5%89%8D%E8%B7%AF/67447222"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.shiyinren.net/song/1192403.html"
+    }
+   ]
+  },
+  {
+   "title": "愿你",
+   "type": "单曲",
+   "album": "愿你",
+   "ost_for": "",
+   "date": "2026-03-27",
+   "lyricist": "温莨",
+   "composer": "瞿子千/臧传伟",
+   "arranger": "瞿子千（兼吉他；钢琴：臧传伟；弦乐：刘博洋；贝斯：吴海涛；和声：瞿子千/念慈）",
+   "producer": "瞿子千/黄霄雲（配唱制作人：沈力；录音/音频编辑：邢铜/孔令祎@TONGX；混音母带：祝非凡；监制：艾维Evy/李国兴）",
+   "her_composition": "制作(合作)",
+   "platform_urls": [
+    "https://www.kuwo.cn/play_detail/552746064",
+    "https://y.music.163.com/m/song?id=3451975341"
+   ],
+   "source_urls": [
+    "https://www.shazam.com/artist/%E9%BB%83%E9%9C%84%E9%9B%B2/1478401199/releases"
+   ],
+   "confidence": "高",
+   "note": "仅Shazam目录可见，日期与详情待补",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.shazam.com/artist/%E9%BB%83%E9%9C%84%E9%9B%B2/1478401199/releases"
+    }
+   ],
+   "duration": "3:23",
+   "intro": "环球音乐×百纳娱乐出品：温莨作词、瞿子千/臧传伟作曲，瞿子千编曲并与黄霄雲联合制作；温柔又坚定的旋律写尽人生路上的奔赴与成长——愿我们都能如野马向阳、似海浪追光。"
+  },
+  {
+   "title": "万灵之上",
+   "type": "影视OST曲",
+   "album": "",
+   "ost_for": "电视剧《白日提灯》孤灯曲",
+   "date": "2026-03-28",
+   "lyricist": "王晓倩/付欣/黎青燃",
+   "composer": "杨秉音/俞舒洁",
+   "arranger": "俞舒洁/李牧野",
+   "producer": "杨秉音@TME制作人联盟",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.shazam.com/song/1887473636/"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E4%B8%87%E7%81%B5%E4%B9%8B%E4%B8%8A/67530718",
+    "http://mp.weixin.qq.com/s?__biz=MzkxNDg1MjcyNA==&mid=2247485774&idx=1&sn=3d86280f192486838646805ea08d65a4"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5281765423581354",
+     "date": "2026-03-29",
+     "url": "https://weibo.com/5043186742/Qyj5If1FM"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E4%B8%87%E7%81%B5%E4%B9%8B%E4%B8%8A/67530718"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "http://mp.weixin.qq.com/s?__biz=MzkxNDg1MjcyNA==&mid=2247485774&idx=1&sn=3d86280f192486838646805ea08d65a4"
+    }
+   ]
+  },
+  {
+   "title": "年少心动雨季",
+   "type": "二专单曲",
+   "album": "第二张原创专辑",
+   "ost_for": "",
+   "date": "2026-05-20",
+   "lyricist": "翟云鹏/冉亦/黄霄雲",
+   "composer": "黄霄雲",
+   "arranger": "马克/黄霄雲",
+   "producer": "黄霄雲/马克",
+   "her_composition": true,
+   "platform_urls": [],
+   "source_urls": [
+    "https://wapbaike.baidu.com/item/%E5%B9%B4%E5%B0%91%E5%BF%83%E5%8A%A8%E9%9B%A8%E5%AD%A3/67814229",
+    "https://www.shiyinren.net/song/1229671.html"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5300347724629021",
+     "date": "2026-05-19",
+     "url": "https://weibo.com/5043186742/R092QjqdD"
+    },
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5300262601752635",
+     "date": "2026-05-19",
+     "url": "https://weibo.com/5043186742/R06Py7lWj"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://wapbaike.baidu.com/item/%E5%B9%B4%E5%B0%91%E5%BF%83%E5%8A%A8%E9%9B%A8%E5%AD%A3/67814229"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.shiyinren.net/song/1229671.html"
+    }
+   ]
+  },
+  {
+   "title": "劫",
+   "type": "翻唱单曲",
+   "album": "劫",
+   "ost_for": "翻唱（原唱：音频怪物；词：王明毓 曲：和汇慧/王梓同）",
+   "date": "2026-05-22",
+   "lyricist": "王明毓",
+   "composer": "和汇慧/王梓同",
+   "arranger": "马重重（吉他：赵越；贝斯：李政辉；小提独奏：张琴；大提独奏：孙艺；弦乐：国际首席爱乐乐团，指挥李朋）",
+   "producer": "王梓同（音乐总监；执行/配唱制作：陈可欣；混音：卫正非；出品人：和汇慧等）",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.huaiyinjie.com/tag/%E9%BB%84%E9%9C%84%E9%9B%B2",
+    "https://www.shazam.com/artist/%E9%BB%83%E9%9C%84%E9%9B%B2/1478401199/releases"
+   ],
+   "confidence": "高",
+   "note": "发行月份待补（Shazam归2026）",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5246986125315032",
+     "date": "2025-12-23",
+     "url": "https://weibo.com/5043186742/QjIk4miGk"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.huaiyinjie.com/tag/%E9%BB%84%E9%9C%84%E9%9B%B2"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.shazam.com/artist/%E9%BB%83%E9%9C%84%E9%9B%B2/1478401199/releases"
+    }
+   ],
+   "duration": "3:50",
+   "intro": "全新演绎音频怪物古风金曲（原唱为电视剧《琉璃》插曲）：苍凉钢琴糅合弦乐与现代鼓点，重塑悲壮催泪的新国风质感；华纳音乐发行、诗和远方影视音乐OP。"
+  },
+  {
+   "title": "刻在我心底的名字",
+   "type": "晚会舞台翻唱",
+   "album": "",
+   "ost_for": "永远22!2026bilibili毕业歌会（原唱：卢广仲）",
+   "date": "2026-05-30",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ]
+  },
+  {
+   "title": "一路荣光",
+   "type": "影视OST片头曲",
+   "album": "",
+   "ost_for": "电视剧《云秀行》片头曲",
+   "date": "2026-06-17",
+   "lyricist": "张一/苏伊平",
+   "composer": "张一",
+   "arranger": "张皓然",
+   "producer": "安东明/张一（北京月上音合文化传媒制作）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kuwo.cn/play_detail/599791468"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5312185602933664",
+     "date": "2026-06-21",
+     "url": "https://weibo.com/5043186742/R570ccjba"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "电视剧《云秀行》片头曲：张一/苏伊平作词、张一作曲、张皓然编曲、安东明/张一制作（北京月上音合）；极具穿透力的嗓音唱响『心怀朝阳，便无惧荒芜前路』。"
+  },
+  {
+   "title": "定玄",
+   "type": "游戏OST主题曲",
+   "album": "",
+   "ost_for": "游戏《鸣潮》玄方主题曲",
+   "date": "2026-06-26",
+   "lyricist": "申名利",
+   "composer": "杨秉音@TME制作人联盟",
+   "arranger": "李牧野（古筝：张梦娴；古琴：武怀琛；鼓：蔡重阳；混音：李牧野；母带：全相彦）",
+   "producer": "杨秉音@TME制作人联盟（兼配唱制作人；出品：鸣潮先约电台/制作家工作室；特别鸣谢：黄霄雲工作室）",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://wapbaike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189（单曲表）"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5314390120464463",
+     "date": "2026-06-27",
+     "url": "https://weibo.com/5043186742/R62lS1WPl"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://wapbaike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189（单曲表）"
+    }
+   ],
+   "intro": "游戏《鸣潮》玄方主题曲：先行公约特邀杨秉音作曲制作、申名利作词、李牧野编曲；古筝古琴与吉他贝斯鼓交织，黄霄雲特邀演唱。"
+  },
+  {
+   "title": "侧脸 (Live)",
+   "type": "综艺舞台翻唱（合唱）",
+   "album": "",
+   "ost_for": "《天赐的声音第七季》第12期，与刘端端合唱",
+   "date": "2026-07",
+   "lyricist": "宜宝",
+   "composer": "脱景麟",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.shazam.com/artist/%E9%BB%83%E9%9C%84%E9%9B%B2/1478401199/releases",
+    "https://www.bilibili.com/video/BV1MoeBztEwP/"
+   ],
+   "confidence": "中",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.shazam.com/artist/%E9%BB%83%E9%9C%84%E9%9B%B2/1478401199/releases"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.bilibili.com/video/BV1MoeBztEwP/"
+    }
+   ]
+  },
+  {
+   "title": "怜心",
+   "type": "影视OST曲",
+   "album": "",
+   "ost_for": "电视剧《雀骨》执念曲",
+   "date": "2026-07-03",
+   "lyricist": "赵素冰",
+   "composer": "陈泇伊",
+   "arranger": "孙沛@fugamusic",
+   "producer": "孙艾藜",
+   "her_composition": false,
+   "platform_urls": [
+    "https://h5.nf.migu.cn/app/v4/p/share/song-new/index.html?id=600929000008940168&channel=0140070"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5319795747587102",
+     "date": "2026-07-12",
+     "url": "https://weibo.com/5043186742/R8iYCvPKC"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "影视剧《雀骨》执念曲：赵素冰作词、陈泇伊作曲、孙艾藜制作、孙沛@fugamusic编曲；OST于2026-07-15全碟上线。"
+  },
+  {
+   "title": "鲸与雀",
+   "type": "游戏OST主题曲",
+   "album": "鲸与雀",
+   "ost_for": "手游《暗区突围》S18赛季『原爆点』主题曲",
+   "date": "2026-07-04",
+   "lyricist": "蒋晓楼",
+   "composer": "Geng Li",
+   "arranger": "翟锦彦@TME制作家",
+   "producer": "翟锦彦@TME制作人联盟",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kuwo.cn/album_detail/96235332"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%B2%B8%E4%B8%8E%E9%9B%80/68131586",
+    "https://www.shiyinren.net/song/1253600.html"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%B2%B8%E4%B8%8E%E9%9B%80/68131586"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.shiyinren.net/song/1253600.html"
+    }
+   ]
+  },
+  {
+   "title": "偏爱",
+   "type": "单曲",
+   "album": "",
+   "ost_for": "",
+   "date": "2026-07-05",
+   "lyricist": "葛大为",
+   "composer": "陈伟",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kuwo.cn/play_detail/620241290"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "与宋安可合唱的翻唱（原唱张芸京，葛大为作词、陈伟作曲），收录于专辑《奇妙练歌房》。"
+  },
+  {
+   "title": "西厢寻他",
+   "type": "合唱单曲",
+   "album": "",
+   "ost_for": "与刘宇共同演唱",
+   "date": "2026-07-10",
+   "lyricist": "徐昊",
+   "composer": "伯爵Johnny",
+   "arranger": "杨子轩",
+   "producer": "刘卓@维伴音乐/郎梓朔@维伴音乐",
+   "her_composition": false,
+   "platform_urls": [
+    "https://baike.baidu.com/item/%E8%A5%BF%E5%8E%A2%E5%AF%BB%E4%BB%96/68217248"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "《天赐的声音第七季》第5期与刘宇合唱的Live翻唱（原唱伯爵Johnny/唐伯虎Annie），杨子轩编曲、刘卓/郎梓朔@维伴音乐制作，随节目专辑发行。"
+  },
+  {
+   "title": "不问",
+   "type": "影视OST片尾曲",
+   "album": "",
+   "ost_for": "电影《大唐妖探》片尾曲",
+   "date": "2026-08-23",
+   "lyricist": "唐奥博/曹紫建",
+   "composer": "唐奥博/李宏基",
+   "arranger": "李宏基",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.kuwo.cn/play_detail/628068538"
+   ],
+   "source_urls": [
+    "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189",
+    "https://www.shazam.com/artist/%E9%BB%83%E9%9C%84%E9%9B%B2/1478401199/releases"
+   ],
+   "confidence": "高",
+   "note": "2026-07-28官宣，具体上线日8月待补",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://baike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.shazam.com/artist/%E9%BB%83%E9%9C%84%E9%9B%B2/1478401199/releases"
+    }
+   ],
+   "intro": "中国首部喜剧探案动画电影《大唐妖探》片尾曲：唐奥博/曹紫建作词、唐奥博/李宏基作曲，李宏基编曲；『不问』是坚守本心的笃定，与自我对话般的沉静吟唱。"
+  },
+  {
+   "title": "打开2.0",
+   "type": "二专单曲",
+   "album": "第二张原创专辑",
+   "ost_for": "",
+   "date": "2026-08-30",
+   "lyricist": "米果",
+   "composer": "黄霄雲",
+   "arranger": "黄霄雲/Johnny Young",
+   "producer": "黄霄雲/马克",
+   "her_composition": true,
+   "platform_urls": [
+    "http://yinyue.kuwo.cn/play_detail/641250411"
+   ],
+   "source_urls": [
+    "https://www.shiyinren.net/song/1284149.html",
+    "https://m.weibo.cn/status/5343461663574507"
+   ],
+   "confidence": "高",
+   "note": "腾讯音乐浪潮榜2026年8月第6位；她身兼演唱/作曲/制作/编曲/和音/母带",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5345178224165120",
+     "date": "2026-09-20",
+     "url": "https://weibo.com/5043186742/RiXi6htxm"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.shiyinren.net/song/1284149.html"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.weibo.cn/status/5343461663574507"
+    }
+   ]
+  },
+  {
+   "title": "梦影",
+   "type": "单曲",
+   "album": "梦影",
+   "ost_for": "",
+   "date": "2026-09-07",
+   "lyricist": "Tino/池舟",
+   "composer": "着色素描",
+   "arranger": "曾吴秋杰",
+   "producer": "余祖意",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.huaiyinjie.com/tag/%E9%BB%84%E9%9C%84%E9%9B%B2"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5340542663393645",
+     "date": "2026-09-07",
+     "url": "https://weibo.com/5043186742/Rh0HoeeQd"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.huaiyinjie.com/tag/%E9%BB%84%E9%9C%84%E9%9B%B2"
+    }
+   ]
+  },
+  {
+   "title": "侧脸（录音室版）",
+   "type": "翻唱单曲（全新编曲）",
+   "album": "侧脸",
+   "ost_for": "",
+   "date": "2026-09-10",
+   "lyricist": "宜宝",
+   "composer": "脱景麟",
+   "arranger": "Roy Chen/冯冲（吉他：J.P.Han；贝斯：Roy Chen；和声：clean；混音：潘君明）",
+   "producer": "J.P.Han/靖成@Label IFP（兼配唱制作人；录音：孔令祎）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://www.goflac.com/songs/723635216"
+   ],
+   "source_urls": [
+    "https://www.huaiyinjie.com/tag/%E9%BB%84%E9%9C%84%E9%9B%B2",
+    "https://www.bilibili.com/video/BV1MoeBztEwP/"
+   ],
+   "confidence": "高",
+   "note": "原唱者待核（粉丝称其为全新编曲翻唱）",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.huaiyinjie.com/tag/%E9%BB%84%E9%9C%84%E9%9B%B2"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.bilibili.com/video/BV1MoeBztEwP/"
+    }
+   ],
+   "duration": "3:37",
+   "intro": "全新编曲翻唱录音室版（源自《天赐的声音第七季》与刘端端的爆款Live）：细腻器乐编排烘托情绪层次，标志性清亮穿透声线重新诠释秋日离别与释然放手。"
+  },
+  {
+   "title": "留不住的夏天",
+   "type": "二专单曲",
+   "album": "第二张原创专辑",
+   "ost_for": "",
+   "date": "2026-09-12",
+   "lyricist": "正闻@金蜗牛lrc/宁意@金蜗牛lrc/泠音@金蜗牛lrc/郑志焕/刘恩善lensa@金蜗牛lrc",
+   "composer": "黄霄雲",
+   "arranger": "马克（粉丝称其参与编曲，待细核）",
+   "producer": "黄霄雲/马克",
+   "her_composition": true,
+   "platform_urls": [
+    "https://music.douyin.com/qishui/share/track?track_id=7683013320929560592"
+   ],
+   "source_urls": [
+    "https://wapbaike.baidu.com/item/%E5%9B%9E%E9%9F%B3%E5%A6%82%E6%9E%9C/64915220（相关词条）",
+    "https://www.shiyinren.net/song/1294023.html",
+    "https://www.sina.cn/news/detail/5341752040621306.html"
+   ],
+   "confidence": "高",
+   "note": "二专第五首；她参与制作/配唱制作/和声编写/母带后期处理制作人",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://wapbaike.baidu.com/item/%E5%9B%9E%E9%9F%B3%E5%A6%82%E6%9E%9C/64915220（相关词条）"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.shiyinren.net/song/1294023.html"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.sina.cn/news/detail/5341752040621306.html"
+    }
+   ]
+  },
+  {
+   "title": "3000",
+   "type": "综艺合作曲",
+   "album": "说唱巅峰对决2026 第12期",
+   "ost_for": "与Top Barry合作（《说唱巅峰对决2026》舞台）",
+   "date": "2026-09-13",
+   "lyricist": "Top Barry/Mosedontbesilly",
+   "composer": "待补",
+   "arranger": "LusciousBB（音乐总监：舟也；音乐团队：名至音乐）",
+   "producer": "待补",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://wapbaike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://wapbaike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "《说唱巅峰对决2026》总决赛帮唱舞台（Live）：Top Barry作品，黄霄雲献唱hook，空灵高亢声线与说唱叙事交织，『爱你三千遍』内核讲责任与守护。"
+  },
+  {
+   "title": "蔷薇青竹",
+   "type": "影视OST主题曲（合唱）",
+   "album": "",
+   "ost_for": "电视剧《尚公主》扶摇直尚情感主题曲、片尾曲，与张远合唱",
+   "date": "2026-10-19",
+   "lyricist": "唐恬@TME制作人联盟",
+   "composer": "彭飞@TME制作人联盟",
+   "arranger": "曾吴秋杰",
+   "producer": "彭飞@TME制作人联盟",
+   "her_composition": false,
+   "platform_urls": [
+    "https://y.qq.com/n/ryqq_v2/songDetail/0039e6Rx08dAhI"
+   ],
+   "source_urls": [
+    "https://wapbaike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+   ],
+   "confidence": "高",
+   "note": "2026-10-19官宣OST阵容，随后发行",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5356034723415444",
+     "date": "2026-10-20",
+     "url": "https://weibo.com/5043186742/RnvIAekvO"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://wapbaike.baidu.com/item/%E9%BB%94%E9%9C%84%E9%9B%B2/56105189"
+    }
+   ],
+   "intro": "电视剧《尚公主》扶摇直尚情感主题曲兼片尾曲，与张远合唱：唐恬作词、彭飞作曲制作、曾吴秋杰编曲；蔷薇喻满身锋芒的暮晚摇，青竹喻风骨自持的言尚。"
+  },
+  {
+   "title": "共赴",
+   "type": "官方委约单曲（长征主题）",
+   "album": "共赴",
+   "ost_for": "中国青年报×退役军人事务部宣传中心出品，致敬长征精神",
+   "date": "2026-10-22",
+   "lyricist": "陶天然",
+   "composer": "陈鹏杰@乐人无数/邓强中@乐人无数",
+   "arranger": "李奕楠",
+   "producer": "陈鹏杰/张暢（配唱制作人：沈力）",
+   "her_composition": false,
+   "platform_urls": [
+    "https://y.music.163.com/m/song?id=3451975341",
+    "http://yinyue.kuwo.cn/play_detail/661165768"
+   ],
+   "source_urls": [
+    "https://www.shiyinren.net/song/1316983.html",
+    "https://y.music.163.com/m/song?id=3451975341"
+   ],
+   "confidence": "高",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.shiyinren.net/song/1316983.html"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://y.music.163.com/m/song?id=3451975341"
+    }
+   ]
+  },
+  {
+   "title": "爱自飞翔（新增条目）",
+   "date": "",
+   "duration": "",
+   "intro": "与平安合唱的单曲（维基百科黄霄雲词条音乐作品列表收录），其余信息待核。",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": "",
+   "platform_urls": [],
+   "sources": [
+    "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%9C%84%E9%9B%B2"
+   ],
+   "confidence": "低",
+   "note": "v1未收录的新发现条目，本轮仅获维基目录级证据，待后续专项核实"
+  },
+  {
+   "title": "Into the Light",
+   "type": "单曲",
+   "album": "",
+   "ost_for": "",
+   "date": "待补",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "一路生花",
+   "type": "翻唱（舞台，待核）",
+   "album": "",
+   "ost_for": "舞台翻唱（原唱：温奕心）",
+   "date": "待补",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014",
+    "https://m.hupu.com/bbs-share/629328750.html"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.hupu.com/bbs-share/629328750.html"
+    }
+   ]
+  },
+  {
+   "title": "人鱼之歌（音源版）",
+   "type": "单曲（待核）",
+   "album": "",
+   "ost_for": "王者荣耀共创之夜曲目音源版",
+   "date": "待补",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "寸心",
+   "type": "舞台曲/演出曲",
+   "album": "",
+   "ost_for": "中央音乐学院『5.23』艺术节闭幕式音乐会（央音交响乐版）",
+   "date": "待补",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014",
+    "https://m.hupu.com/bbs-share/629328750.html"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.hupu.com/bbs-share/629328750.html"
+    }
+   ]
+  },
+  {
+   "title": "山水布依",
+   "type": "单曲（家乡题材，待核）",
+   "album": "",
+   "ost_for": "",
+   "date": "待补",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "当爱",
+   "type": "OST（待核）",
+   "album": "",
+   "ost_for": "粉丝梳理：古偶仙侠OST",
+   "date": "待补",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://m.weibo.cn/status/5204210945888857",
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.weibo.cn/status/5204210945888857"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "灼",
+   "type": "OST（待核）",
+   "album": "",
+   "ost_for": "粉丝梳理：古偶仙侠OST",
+   "date": "待补",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://m.weibo.cn/status/5204210945888857"
+   ],
+   "confidence": "高(本人微博官宣)",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5201657417433453",
+     "date": "2025-08-20",
+     "url": "https://weibo.com/5043186742/Q0H7fvbMp"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.weibo.cn/status/5204210945888857"
+    }
+   ]
+  },
+  {
+   "title": "爱如此",
+   "type": "OST（待核）",
+   "album": "",
+   "ost_for": "粉丝梳理：古偶仙侠OST",
+   "date": "待补",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://m.weibo.cn/status/5204210945888857",
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "高(本人微博官宣)",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4979151367045802",
+     "date": "2023-12-15",
+     "url": "https://weibo.com/5043186742/Nxd5utyVY"
+    },
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-578a8cfa435218c5",
+     "date": "2023-12-16",
+     "url": ""
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.weibo.cn/status/5204210945888857"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "生生世世爱",
+   "type": "OST/翻唱（待核）",
+   "album": "",
+   "ost_for": "粉丝梳理（原唱：吴雨霏，或为其翻唱/再演绎版）",
+   "date": "待补",
+   "lyricist": "",
+   "composer": "",
+   "arranger": "",
+   "producer": "",
+   "her_composition": false,
+   "platform_urls": [],
+   "source_urls": [
+    "https://m.weibo.cn/status/5204210945888857",
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "高(本人微博官宣)",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-4991502554504714",
+     "date": "2024-01-18",
+     "url": "https://weibo.com/5043186742/NCooLiTSG"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.weibo.cn/status/5204210945888857"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "神相",
+   "type": "游戏曲（待核）",
+   "album": "",
+   "ost_for": "游戏相关曲（粉丝梳理，疑为《逆水寒》相关）",
+   "date": "待补",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arrangler": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://m.weibo.cn/status/5204210945888857"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.weibo.cn/status/5204210945888857"
+    }
+   ]
+  },
+  {
+   "title": "窗外大雨",
+   "type": "单曲",
+   "album": "",
+   "ost_for": "",
+   "date": "待补",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "给爱人",
+   "type": "OST（待核）",
+   "album": "",
+   "ost_for": "粉丝梳理：正剧OST",
+   "date": "待补",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://m.weibo.cn/status/5204210945888857"
+   ],
+   "confidence": "高(本人微博官宣)",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5199483127726621",
+     "date": "2025-08-14",
+     "url": "https://weibo.com/5043186742/PFK0Ewq2V"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.weibo.cn/status/5204210945888857"
+    }
+   ]
+  },
+  {
+   "title": "莲花盛开",
+   "type": "单曲（待核）",
+   "album": "",
+   "ost_for": "",
+   "date": "待补",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "血河",
+   "type": "游戏曲（待核）",
+   "album": "",
+   "ost_for": "游戏相关曲（粉丝梳理：游戏曲）",
+   "date": "待补",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://m.weibo.cn/status/5204210945888857",
+    "https://www.cnblogs.com/LCat90/p/18508014"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.weibo.cn/status/5204210945888857"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://www.cnblogs.com/LCat90/p/18508014"
+    }
+   ]
+  },
+  {
+   "title": "跃入星光",
+   "type": "游戏/舞台曲（待核）",
+   "album": "",
+   "ost_for": "粉丝梳理：游戏曲",
+   "date": "待补",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://m.weibo.cn/status/5204210945888857"
+   ],
+   "confidence": "低",
+   "sources": [
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.weibo.cn/status/5204210945888857"
+    }
+   ]
+  },
+  {
+   "title": "陈伤",
+   "type": "OST（待核）",
+   "album": "",
+   "ost_for": "粉丝梳理：古偶仙侠OST",
+   "date": "待补",
+   "lyricist": "待补",
+   "composer": "待补",
+   "arranger": "待补",
+   "producer": "待补",
+   "her_composition": "待补",
+   "platform_urls": [],
+   "source_urls": [
+    "https://m.weibo.cn/status/5204210945888857"
+   ],
+   "confidence": "高(本人微博官宣)",
+   "sources": [
+    {
+     "kind": "corpus_weibo",
+     "id": "weibo-5202382075725173",
+     "date": "2025-08-22",
+     "url": "https://weibo.com/5043186742/Q0ZY3o1nv"
+    },
+    {
+     "kind": "platform_or_web",
+     "url": "https://m.weibo.cn/status/5204210945888857"
+    }
+   ]
+  }
+ ],
+ "her_creation_index": {
+  "her_composition_true": [
+   "打开 (2018-05-07, 曲+编曲)",
+   "光之黎明 (2021-12-22, 曲+编曲+配唱制作+母带后期制作)",
+   "那些我偷偷想你的时候 (原创demo, 2021)",
+   "没语季节 (2024, 曲+编曲+制作)",
+   "盲选 (2024, 曲+编曲+制作)",
+   "回音如果 (2024, 曲+编曲+制作)",
+   "你真的够了 (2025-12-09, 词+曲+编曲+制作全独立)",
+   "年少心动雨季 (2026-05-20, 曲+词参与+编曲+制作)",
+   "打开2.0 (2026-08-30, 曲+编曲+制作)",
+   "留不住的夏天 (2026-09-12, 曲+制作+和声编写)"
+  ],
+  "her_composition_partial": [
+   "然后呢, 最后呢 (2024, 曲参与)",
+   "娃儿！莫怕 (2026-01-26, 曲与孙思达合作+词与珈兆合作+制作与关天天合作)",
+   "山海之上 (2026-02, 官方称其『创作』，署名待核)"
+  ],
+  "her_producer_only_or_participate": [
+   "玫瑰星云 (2024, 制作)",
+   "没了我你依然拥有太阳 2024专辑版 (制作)",
+   "小云 (2024, 制作)",
+   "弦上生花 (2024, 制作)",
+   "说谎动物 (2024, 制作)",
+   "觉醒时代 (2024, 制作)"
+  ],
+  "summary_text": "作曲署名（含合作）约13首；制作人作品：没语季节全专10首+二专已发5首共15首（其中你真的够了为词曲编制作全独立）；光之黎明担任配唱制作与母带后期制作人"
+ },
+ "albums_summary": [
+  {
+   "album": "黄霄雲的Neverland",
+   "type": "EP（童话篇+成长篇，共6曲）",
+   "date": "2020-11-16 / 2020-12-03",
+   "label": "梦响强音",
+   "tracks": [
+    "Neverland",
+    "秘密日记",
+    "一千零一夜",
+    "众声喧哗",
+    "逆世界",
+    "二十一"
+   ],
+   "her_role": "演唱（无作曲/制作参与记录）"
+  },
+  {
+   "album": "没语季节",
+   "type": "录音室专辑（10曲）",
+   "date": "2024-11-15",
+   "label": "华纳唱片（北京回音如果文化传媒工作室出品）",
+   "tracks": [
+    "没语季节",
+    "说谎动物",
+    "然后呢, 最后呢",
+    "没了我你依然拥有太阳",
+    "觉醒时代",
+    "小云",
+    "盲选",
+    "弦上生花",
+    "回音如果",
+    "玫瑰星云"
+   ],
+   "her_role": "制作人+出品人，参与作曲/编曲/和声编写/键盘/配唱制作/母带后期制作人（2024-07-20起10首以单曲先行陆续上线）"
+  },
+  {
+   "album": "第二张原创专辑（未发完，单曲陆续发行）",
+   "type": "录音室专辑（进行中）",
+   "date": "2025-12起",
+   "label": "环球音乐",
+   "tracks": [
+    "你真的够了",
+    "娃儿！莫怕",
+    "年少心动雨季",
+    "打开2.0",
+    "留不住的夏天"
+   ],
+   "her_role": "全系列作曲参与+制作：你真的够了(词曲编制全包)/娃儿！莫怕(曲+词+制作)/年少心动雨季(曲+词+编曲+制作)/打开2.0(曲+编曲+制作)/留不住的夏天(曲+制作)"
+  }
+ ]
+}
